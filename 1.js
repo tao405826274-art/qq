@@ -2,13 +2,8 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-base = 100 * 10
-
-const ORGID_START = 1 + base;
-const ORGID_END = base + 100;
-const ORGIDS = Array.from({ length: ORGID_END - ORGID_START + 1 }, (_, i) => i + ORGID_START);
-
-const OUTPUT_FILE = path.join(__dirname, `streams_${ORGID_START}-${ORGID_END}.json`);
+const BATCH_SIZE = 100;
+const MAX_ORGID = 1000;
 
 async function fetchOrgId(orgId) {
   return new Promise((resolve) => {
@@ -30,27 +25,42 @@ async function fetchOrgId(orgId) {
           } else {
             resolve([]);
           }
-        } catch {
+        } catch (err) {
+          console.log(`orgId ${orgId} JSON parse error`);
           resolve([]);
         }
       });
-    }).on('error', () => resolve([]));
+    }).on('error', (err) => {
+      console.log(`orgId ${orgId} request error: ${err.message}`);
+      resolve([]);
+    });
   });
 }
 
-async function fetchAllStreams() {
+async function fetchBatch(start, end) {
+  console.log(`\n=== Starting batch ${start}-${end} ===`);
   const results = [];
-  for (const orgId of ORGIDS) {
+  for (let orgId = start; orgId <= end; orgId++) {
     const streams = await fetchOrgId(orgId);
     if (streams.length > 0) {
       results.push(...streams);
       console.log(`Fetched orgId ${orgId}, got ${streams.length} valid streams`);
+    } else {
+      console.log(`Fetched orgId ${orgId}, no valid streams`);
     }
-    await new Promise(r => setTimeout(r, 100));
+    await new Promise(r => setTimeout(r, 100)); // 避免请求过快
   }
-
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(results, null, 2), 'utf-8');
-  console.log(`All done! ${results.length} streams saved to ${OUTPUT_FILE}`);
+  const outputFile = path.join(__dirname, `streams_${start}-${end}.json`);
+  fs.writeFileSync(outputFile, JSON.stringify(results, null, 2), 'utf-8');
+  console.log(`Batch ${start}-${end} done! ${results.length} total streams saved to ${outputFile}`);
 }
 
-fetchAllStreams();
+async function fetchAllBatches() {
+  for (let start = 1; start <= MAX_ORGID; start += BATCH_SIZE) {
+    const end = Math.min(start + BATCH_SIZE - 1, MAX_ORGID);
+    await fetchBatch(start, end);
+  }
+  console.log('\n=== All batches completed ===');
+}
+
+fetchAllBatches();
