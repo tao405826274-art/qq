@@ -1,6 +1,6 @@
-const https = require('https');
-const fs = require('fs');
-const path = require('path');
+const https = require("https");
+const fs = require("fs");
+const path = require("path");
 
 const BATCH_SIZE = 100;
 const MAX_ORGID = 1000;
@@ -8,32 +8,34 @@ const MAX_ORGID = 1000;
 async function fetchOrgId(orgId) {
   return new Promise((resolve) => {
     const url = `https://app.litenews.cn/v1/app/play/tv/live?orgid=${orgId}`;
-    https.get(url, (res) => {
-      let data = '';
-      res.on('data', (chunk) => data += chunk);
-      res.on('end', () => {
-        try {
-          const json = JSON.parse(data);
-          if (json.data && Array.isArray(json.data)) {
-            const validStreams = json.data
-              .filter(item => item.stream && item.stream.startsWith('http'))
-              .map(item => {
-                item.stream = item.stream.replace(/\s/g, '');
-                return { orgId, ...item };
-              });
-            resolve(validStreams);
-          } else {
+    https
+      .get(url, (res) => {
+        let data = "";
+        res.on("data", (chunk) => (data += chunk));
+        res.on("end", () => {
+          try {
+            const json = JSON.parse(data);
+            if (json.data && Array.isArray(json.data)) {
+              const validStreams = json.data
+                .filter((item) => item.stream && item.stream.startsWith("http"))
+                .map((item, i) => {
+                  item.stream = item.stream.replace(/\s/g, "");
+                  return { orgId, index: i, ...item };
+                });
+              resolve(validStreams);
+            } else {
+              resolve([]);
+            }
+          } catch (err) {
+            console.log(`orgId ${orgId} JSON parse error`);
             resolve([]);
           }
-        } catch (err) {
-          console.log(`orgId ${orgId} JSON parse error`);
-          resolve([]);
-        }
+        });
+      })
+      .on("error", (err) => {
+        console.log(`orgId ${orgId} request error: ${err.message}`);
+        resolve([]);
       });
-    }).on('error', (err) => {
-      console.log(`orgId ${orgId} request error: ${err.message}`);
-      resolve([]);
-    });
   });
 }
 
@@ -48,10 +50,10 @@ async function fetchBatch(start, end) {
     } else {
       console.log(`Fetched orgId ${orgId}, no valid streams`);
     }
-    await new Promise(r => setTimeout(r, 100)); // 避免请求过快
+    await new Promise((r) => setTimeout(r, 100));
   }
   const outputFile = path.join(__dirname, `streams_${start}-${end}.json`);
-  fs.writeFileSync(outputFile, JSON.stringify(results, null, 2), 'utf-8');
+  fs.writeFileSync(outputFile, JSON.stringify(results, null, 2), "utf-8");
   console.log(`Batch ${start}-${end} done! ${results.length} total streams saved to ${outputFile}`);
 }
 
@@ -60,7 +62,7 @@ async function fetchAllBatches() {
     const end = Math.min(start + BATCH_SIZE - 1, MAX_ORGID);
     await fetchBatch(start, end);
   }
-  console.log('\n=== All batches completed ===');
+  console.log("\n=== All batches completed ===");
 }
 
 fetchAllBatches();
