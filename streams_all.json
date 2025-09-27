@@ -1,0 +1,4568 @@
+[
+  {
+    "orgId": 1,
+    "name": "昌乐电视台",
+    "icon": "http://app.iqilu.com/public/upload/2019/06/12/c1563a7a4423ee69fc8ac6a4475f1084.jpg",
+    "stream": "https://alivealone302.litenews.cn/1/e6630b8dd96a49d1b59a815737a4885c/playlist.m3u8?k=c6627c7e2a23d2d71b8fb5687143e92c&t=1758957793",
+    "id": 3,
+    "desc": "昌乐电视台",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "昌乐电视台",
+      "image": "http://app.iqilu.com/public/upload/2019/06/12/c1563a7a4423ee69fc8ac6a4475f1084.jpg",
+      "url": "https://iapp.clxrmtzx.cn/share/dHZsLTEtMw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 5,
+    "name": "综合频道",
+    "icon": "http://img11.iqilu.com/5/2019/09/03/ff67cfd99253443739258b4e88363b76.png",
+    "stream": "https://alivealone302.litenews.cn/5/f7b32719405e4a159480d467efff478d/playlist.m3u8?k=e697769521dd29e3f94040f853f08cdb&t=1758957794",
+    "id": 9,
+    "desc": "综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "http://img11.iqilu.com/5/2019/09/03/ff67cfd99253443739258b4e88363b76.png",
+      "url": "https://iapp.qyxrmtzx.cn/share/dHZsLTUtOQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 5,
+    "name": "生活频道",
+    "icon": "http://img11.iqilu.com/5/2019/09/03/633dced0a8375b1cf08a53a7c35cd469.png",
+    "stream": "https://alivealone302.litenews.cn/5/d50cf46c986949a58dafa52d15ddd171/playlist.m3u8?k=e6fe649ce6f09c0450a28756d911888a&t=1758957794",
+    "id": 7,
+    "desc": "生活频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "http://img11.iqilu.com/5/2019/09/03/633dced0a8375b1cf08a53a7c35cd469.png",
+      "url": "https://iapp.qyxrmtzx.cn/share/dHZsLTUtNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 7,
+    "name": "中央一套",
+    "icon": "https://img11.iqilu.com/7/2019/12/13/61ba132a5cc1c2b3c5b492900da7a927.jpeg",
+    "stream": "http://tv.cctv.com/live/cctv1/?spm=C28340.P9dhkRStLqPh.ETcT5bw9TQ6x.4",
+    "id": 7,
+    "desc": "中央一套",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "中央一套",
+      "image": "https://img11.iqilu.com/7/2019/12/13/61ba132a5cc1c2b3c5b492900da7a927.jpeg",
+      "url": "https://iapp.snrmkhd.cn/share/dHZsLTctNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 7,
+    "name": "看个球吧",
+    "icon": "http://img11.iqilu.com/7/2019/08/14/e6a737f4d2ed5a7c731d9d4fc24654b5.jpg",
+    "stream": "http://tv.cctv.com/live/cctv5/",
+    "id": 6,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "看个球吧",
+      "image": "http://img11.iqilu.com/7/2019/08/14/e6a737f4d2ed5a7c731d9d4fc24654b5.jpg",
+      "url": "https://iapp.snrmkhd.cn/share/dHZsLTctNg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 11,
+    "name": "综合频道",
+    "icon": "http://img11.iqilu.com/11/2019/08/28/bd6f535960315f5488eb2a957ce97e6e.png",
+    "stream": "https://alivealone302.litenews.cn/11/3c42abae69e6493d83747b135ea69c27/playlist.m3u8?k=1311aa1ae104e6641a02ec7e75aab256&t=1758957797",
+    "id": 15,
+    "desc": "新闻频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "http://img11.iqilu.com/11/2019/08/28/bd6f535960315f5488eb2a957ce97e6e.png",
+      "url": "https://iapp.zpgd.net/share/dHZsLTExLTE1.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 11,
+    "name": "民生频道",
+    "icon": "http://img11.iqilu.com/11/2019/08/29/50b008d8be584471e155a710795fcbbb.png",
+    "stream": "https://alivealone302.litenews.cn/11/a60cdcc3bece44db81533c01bc9485e3/playlist.m3u8?k=c14413b645780e8bcf3635938f337878&t=1758957797",
+    "id": 16,
+    "desc": "民生频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "民生频道",
+      "image": "http://img11.iqilu.com/11/2019/08/29/50b008d8be584471e155a710795fcbbb.png",
+      "url": "https://iapp.zpgd.net/share/dHZsLTExLTE2.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 13,
+    "name": "曲阜综合频道",
+    "icon": "http://img11.iqilu.com/13/2019/07/22/5b8aa4ab7981769f0e32017e8efdc8fc.png",
+    "stream": "https://alivealone302.litenews.cn/13/6f263dfd0b8743d088dbf96c0a927a1a/playlist.m3u8?k=f82525fcdf97fa6b0596d9f79300446a&t=1758957797",
+    "id": 1,
+    "desc": "曲阜市融媒体中心综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "曲阜综合频道",
+      "image": "http://img11.iqilu.com/13/2019/07/22/5b8aa4ab7981769f0e32017e8efdc8fc.png",
+      "url": "https://iapp.jinriqufu.com/share/dHZsLTEzLTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 15,
+    "name": "潍城区广播电视台",
+    "icon": "https://img11.iqilu.com/15/2020/04/09/8cad1fc14930275358a8db0e7c4b37c9.jpg",
+    "stream": "https://alivealone302.litenews.cn/15/481ce97b425043f9a9d905695b37151f/playlist.m3u8?k=da28de467fd55c7b5ef1857e2b5f862a&t=1758957798",
+    "id": 3,
+    "desc": "潍城区广播电视台",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "潍城区广播电视台",
+      "image": "https://img11.iqilu.com/15/2020/04/09/8cad1fc14930275358a8db0e7c4b37c9.jpg",
+      "url": "https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 17,
+    "name": "博山新闻频道",
+    "icon": "https://img11.iqilu.com/17/2020/08/10/e731f9f2c66d3b403fa93de20bbe709e.jpg",
+    "stream": "https://alivealone302.litenews.cn/17/4fd1c42305974bb2a98047a2bfef1d16/playlist.m3u8?k=d414cd7c2093f3496aba9db225cc0689&t=1758957799",
+    "id": 8,
+    "desc": "博山新闻频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "博山新闻频道",
+      "image": "https://img11.iqilu.com/17/2020/08/10/e731f9f2c66d3b403fa93de20bbe709e.jpg",
+      "url": "https://iapp.boshanhao.cn/share/dHZsLTE3LTg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 17,
+    "name": "博山图文频道",
+    "icon": "http://img11.iqilu.com/17/2019/09/04/246c68b34e5354cbcfb540ead9b79d15.jpg",
+    "stream": "https://alivealone302.litenews.cn/17/7ea8010d70524912b41c92aaa5318ea9/playlist.m3u8?k=b09ec5d9b4080a6a4ab337eea9dc9213&t=1758957799",
+    "id": 9,
+    "desc": "博山图文频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "博山图文频道",
+      "image": "http://img11.iqilu.com/17/2019/09/04/246c68b34e5354cbcfb540ead9b79d15.jpg",
+      "url": "https://iapp.boshanhao.cn/share/dHZsLTE3LTk.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 19,
+    "name": "平原综合",
+    "icon": "http://img11.iqilu.com/19/2019/07/08/092e36be28d17e3853267b6964316971.png",
+    "stream": "https://alivealone302.litenews.cn/19/8d0a43a5e3504544bbdb2b958f5ccf1e/playlist.m3u8?k=90100c61dd355469783fb2a5e873749c&t=1758957800",
+    "id": 2,
+    "logo": "",
+    "desc": "平原综合",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "平原综合",
+      "image": "http://img11.iqilu.com/19/2019/07/08/092e36be28d17e3853267b6964316971.png",
+      "url": "https://iapp.pyxwapp.com/share/dHZsLTE5LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "山东卫视",
+    "icon": "https://img11.iqilu.com/21/2021/10/15/3971b9a07a629301db1fcc2a70350ec2.png",
+    "stream": "https://streamlive302.iqilu.com/21/caf9b8bb36e74a8e83b3fe9a0e6450ef/playlist.m3u8",
+    "desc": "",
+    "id": 1,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/80d3a87a507f6b699bfa9f619e6f04f9.png",
+    "reviewStream": "https://wsvod.iqilu.com/wssy-sdtvwNyuAE.m3u8",
+    "program": 1,
+    "s4KStream": "",
+    "cateid": 0,
+    "share": {
+      "title": "山东卫视",
+      "image": "https://img11.iqilu.com/21/2021/10/15/3971b9a07a629301db1fcc2a70350ec2.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "新闻频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/15/edf8314ae8b278da95333b8a6f40928b.png",
+    "stream": "https://streamlive302.iqilu.com/21/ae3cd441fafb45f29168af2a3bf8e116/playlist.m3u8",
+    "desc": "",
+    "id": 3,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/0dbd5db0c28d0a6d4b8b490cbc760316.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "新闻频道",
+      "image": "https://img11.iqilu.com/21/2021/10/15/edf8314ae8b278da95333b8a6f40928b.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTM.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "齐鲁频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/15/b581d2cc9c0d65dbb287eea3360126f4.png",
+    "stream": "https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8",
+    "desc": "",
+    "id": 5,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/5123d4efb8b7523f3d546a75ca2c9a5d.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "齐鲁频道",
+      "image": "https://img11.iqilu.com/21/2021/10/15/b581d2cc9c0d65dbb287eea3360126f4.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTU.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "体育休闲频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/28/52ea910b88c99514fd7eaa7f592d853f.png",
+    "stream": "https://tstreamlive302.iqilu.com/291/d9c0aba79a944b41a7f4f1ac422d9808/playlist.m3u8",
+    "desc": "",
+    "id": 7,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/d0baa8ce29b505099daead83c549e57d.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "体育休闲频道",
+      "image": "https://img11.iqilu.com/21/2021/10/28/52ea910b88c99514fd7eaa7f592d853f.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTc.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "生活频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/28/ddb40abf8b56452188dfbb89a5e408b8.png",
+    "stream": "https://tstreamlive302.iqilu.com/291/6e9efb8f95a543db8246f1cf06ba960b/playlist.m3u8",
+    "desc": "",
+    "id": 9,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/b41bbf8c55cb99601dc3a6733e6fa2b3.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "生活频道",
+      "image": "https://img11.iqilu.com/21/2021/10/28/ddb40abf8b56452188dfbb89a5e408b8.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTk.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "综艺频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/28/2f30db552d66864d7d0df631a7307707.png",
+    "stream": "https://tstreamlive302.iqilu.com/291/dad8e4743fcf48ed925d01e64868cc7c/playlist.m3u8",
+    "desc": "",
+    "id": 11,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/a185e157006ebbc51baa0d95557d1ce0.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "综艺频道",
+      "image": "https://img11.iqilu.com/21/2021/10/28/2f30db552d66864d7d0df631a7307707.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTEx.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "文旅频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/28/7bb10810442a6e10683da10738e09a4d.png",
+    "stream": "https://tstreamlive302.iqilu.com/291/71637943d1f841c78edd6abfa120bee2/playlist.m3u8",
+    "desc": "",
+    "id": 13,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/8daa1c941d3edf70489c3244e1a1d819.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "文旅频道",
+      "image": "https://img11.iqilu.com/21/2021/10/28/7bb10810442a6e10683da10738e09a4d.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTEz.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "农科频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/28/93d573986d1c2df8d05137b4fcb80be8.png",
+    "stream": "https://tstreamlive302.iqilu.com/291/9664dd18b42b4b129a71fbfb68a80e3b/playlist.m3u8",
+    "desc": "",
+    "id": 15,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/45076da3b9c6dfa8d9e836c434a90995.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "农科频道",
+      "image": "https://img11.iqilu.com/21/2021/10/28/93d573986d1c2df8d05137b4fcb80be8.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTE1.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 21,
+    "name": "少儿频道",
+    "icon": "https://img11.iqilu.com/21/2021/10/28/c86fc5b2be720b4d26d4223ed9034764.png",
+    "stream": "https://streamlive302.iqilu.com/21/6f15fcb360c14392894d7120392e18ff/playlist.m3u8",
+    "desc": "",
+    "id": 17,
+    "logo": "https://img11.iqilu.com/21/2025/01/06/6040df0c9822834a024a1f76e5d9e41b.png",
+    "program": 1,
+    "cateid": 0,
+    "share": {
+      "title": "少儿频道",
+      "image": "https://img11.iqilu.com/21/2021/10/28/c86fc5b2be720b4d26d4223ed9034764.png",
+      "url": "https://sdxw.iqilu.com/share/dHZsLTIxLTE3.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 23,
+    "name": "桓台电视台第一套节目",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/23/59ef9e96100c4bdaac6421fe00b7d1c9/playlist.m3u8?k=8c39eea46daf273bf9f6e84f5facc373&t=1758957801",
+    "id": 15,
+    "desc": "桓台电视台第一套节目",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "桓台电视台第一套节目",
+      "image": "",
+      "url": "https://iapp.htxw.cn/share/dHZsLTIzLTE1.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 23,
+    "name": "桓台电视台第二套节目",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/23/696df531d303409f9df43709e521bc5f/playlist.m3u8?k=5635cbc0e24a2a05ad025f071012acc1&t=1758957801",
+    "id": 16,
+    "desc": "桓台电视台第二套节目",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "桓台电视台第二套节目",
+      "image": "",
+      "url": "https://iapp.htxw.cn/share/dHZsLTIzLTE2.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 27,
+    "name": "定陶综合频道",
+    "icon": "http://img11.iqilu.com/27/2019/08/13/61316178e7253c638afd7701278185a5.jpg",
+    "stream": "https://alivealone302.litenews.cn/27/08130f5f60ac4b23a2debdc1e3fe4b9a/playlist.m3u8?k=2588c45b277b93e81129f0cebf1aa1a4&t=1758957803",
+    "id": 7,
+    "desc": "定陶新闻频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "定陶综合频道",
+      "image": "http://img11.iqilu.com/27/2019/08/13/61316178e7253c638afd7701278185a5.jpg",
+      "url": "https://iapp.aidingtao.cn/share/dHZsLTI3LTc.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 27,
+    "name": "定陶综艺频道",
+    "icon": "http://img11.iqilu.com/27/2019/08/13/68e6240eb2245dec5f06f5031381f319.jpg",
+    "stream": "https://alivealone302.litenews.cn/27/b91d0a6d35514440b4895c07db91d144/playlist.m3u8?k=fd3d1c95b40d58eb8b43b7d2633d21cd&t=1758957803",
+    "id": 8,
+    "desc": "定陶综艺频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "定陶综艺频道",
+      "image": "http://img11.iqilu.com/27/2019/08/13/68e6240eb2245dec5f06f5031381f319.jpg",
+      "url": "https://iapp.aidingtao.cn/share/dHZsLTI3LTg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "少儿",
+    "icon": "https://img11.litenews.cn/29/2025/06/27/c0e94e36c26346d484eb96423330f798.png",
+    "logo": "https://img11.litenews.cn/29/2025/06/27/c0e94e36c26346d484eb96423330f798.png",
+    "stream": "https://streamlive302.iqilu.com/21/6f15fcb360c14392894d7120392e18ff/playlist.m3u8",
+    "desc": "少儿",
+    "id": 94,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "少儿",
+      "image": "https://img11.litenews.cn/29/2025/06/27/c0e94e36c26346d484eb96423330f798.png",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTk0.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "农科",
+    "icon": "https://img11.litenews.cn/29/2025/06/27/74bbb5db1fd14dc8a93bc86ae4d7c302.png",
+    "logo": "https://img11.litenews.cn/29/2025/06/27/f642521464ca42878bc48449c372c2fb.png",
+    "stream": "https://streamlive302.iqilu.com/21/949982866aef43248ddd2589e8b360a6/playlist.m3u8",
+    "desc": "农科",
+    "id": 96,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "农科",
+      "image": "https://img11.litenews.cn/29/2025/06/27/74bbb5db1fd14dc8a93bc86ae4d7c302.png",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTk2.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "生活频道",
+    "icon": "https://img11.iqilu.com/305/2021/05/07/b2777021f2fa88dc90500d50b23b6b2d.png",
+    "stream": "https://jsylivealone302.iqilu.com/jiaozhou/jiaozhou_tv02/index.m3u8?t=1758961403&k=b467557cf999127f572442f8fab31ab9",
+    "desc": "",
+    "id": 71,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "https://img11.iqilu.com/305/2021/05/07/b2777021f2fa88dc90500d50b23b6b2d.png",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTcx.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "生活频道",
+    "icon": "https://img11.iqilu.com/29/2020/02/07/509515f524d740ed176280f6d0df5225.png",
+    "stream": "http://livealone302.iqilu.com/iqilu/sdtv.m3u8",
+    "id": 25,
+    "logo": "https://img11.iqilu.com/29/2020/02/07/509515f524d740ed176280f6d0df5225.png",
+    "desc": "生活频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "https://img11.iqilu.com/29/2020/02/07/509515f524d740ed176280f6d0df5225.png",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTI1.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "影视频道",
+    "icon": "https://img11.iqilu.com/29/2020/03/05/2f96ed1c6b14250472fcdb823b3ed2d4.jpg",
+    "stream": "https://krtxplay1.setrtmp.com/live/SSSS-475180-ECAAD.m3u8",
+    "desc": "",
+    "id": 32,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "影视频道",
+      "image": "https://img11.iqilu.com/29/2020/03/05/2f96ed1c6b14250472fcdb823b3ed2d4.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTMy.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "高唐生活啊",
+    "icon": "https://img11.iqilu.com/29/2020/02/07/742011face1168f885f01d142e022ee9.png",
+    "stream": "https://jsylivealone302.iqilu.com/live/weihai_tv01/index.m3u8?t=1758961403&k=ff1041966322d9e41f499dd6c3f1ba4f",
+    "desc": "",
+    "id": 34,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "高唐生活啊",
+      "image": "https://img11.iqilu.com/29/2020/02/07/742011face1168f885f01d142e022ee9.png",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTM0.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "测试加密",
+    "icon": "",
+    "stream": "https://wslivealone302.iqilu.com/guangdian/guangdian_tv01/playlist.m3u8?k=4461520ea29a77186459cdaa736699f8&t=1758957803",
+    "desc": "",
+    "id": 45,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "测试加密",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTQ1.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "山东",
+    "icon": "https://img11.iqilu.com/29/2020/11/10/923ceb914afe580cc699f0d355886462.jpg",
+    "stream": "https://streamlive302.iqilu.com/21/caf9b8bb36e74a8e83b3fe9a0e6450ef/playlist.m3u8",
+    "desc": "shandongweishi",
+    "id": 36,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "山东",
+      "image": "https://img11.iqilu.com/29/2020/11/10/923ceb914afe580cc699f0d355886462.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTM2.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "测试网宿防盗",
+    "icon": "",
+    "stream": "https://wslivealone302.iqilu.com/live/test/playlist.m3u8?k=fccdff83dba0b0ffb02d4ae41329ab25&t=1758957803",
+    "desc": "",
+    "id": 49,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "测试网宿防盗",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTQ5.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "litenews新直播测试",
+    "icon": "",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/29/202304_1651887487343333376/playlist.m3u8?k=1a79e01e5661ba1f97bac934c50b69df&t=1758957803",
+    "desc": "litenews新直播测试",
+    "id": 83,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "litenews新直播测试",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTgz.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "金山防盗链",
+    "icon": "",
+    "logo": "",
+    "stream": "https://blivealone302.litenews.cn/b181/9e9ff94026554c9682386c91559888f2/index.m3u8?t=1758961403&k=7c17fc060891f5c018f033fc7254e15b",
+    "desc": "1111",
+    "id": 86,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "金山防盗链",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTg2.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "潍坊高新",
+    "icon": "",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/421/73c76d35421345028653ea23a53db553/playlist.m3u8?k=35ebc56f1d2cfb88502a30273c042fb0&t=1758957803",
+    "desc": "123",
+    "id": 88,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "潍坊高新",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTg4.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "爱东营新闻综合",
+    "icon": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+    "logo": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+    "stream": "https://live.dongyingnews.cn/537/202304_1651887564107485184/playlist.m3u8?k=6a2788641b2b56ecfd36da9855fe1aeb&t=1758957803",
+    "desc": "测试东营",
+    "id": 90,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "爱东营新闻综合",
+      "image": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTkw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 29,
+    "name": "爱东营公",
+    "icon": "",
+    "logo": "",
+    "stream": "https://live.dongyingnews.cn/537/202304_1651887564182982656/playlist.m3u8?k=2f06164c7a15b828b52e36c12fec8057&t=1758957803",
+    "desc": "公共",
+    "id": 100,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "爱东营公",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTI5LTEwMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 31,
+    "name": "茌平综合",
+    "icon": "http://img11.iqilu.com/31/2019/07/31/d68d8dbd61ef2687dee9c21e295065c3.jpg",
+    "stream": "https://alivealone302.litenews.cn/31/112df63fd99c4645a442ecb065948bc9/playlist.m3u8?k=a63c907fb948d337349bc697269eafa8&t=1758957804",
+    "id": 6,
+    "desc": "茌平综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "茌平综合",
+      "image": "http://img11.iqilu.com/31/2019/07/31/d68d8dbd61ef2687dee9c21e295065c3.jpg",
+      "url": "https://iapp.cprmtvs.com/share/dHZsLTMxLTY.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 31,
+    "name": "茌平生活",
+    "icon": "http://img11.iqilu.com/31/2019/07/31/58f4f5b2c533d578f2abdd6336da806d.jpg",
+    "stream": "https://alivealone302.litenews.cn/31/e2e5976345df49fdab46f2abff9de5c2/playlist.m3u8?k=197a29370e96ff9127783b4bdc1c8324&t=1758957804",
+    "id": 8,
+    "desc": "茌平生活频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "茌平生活",
+      "image": "http://img11.iqilu.com/31/2019/07/31/58f4f5b2c533d578f2abdd6336da806d.jpg",
+      "url": "https://iapp.cprmtvs.com/share/dHZsLTMxLTg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 33,
+    "name": "武城综合频道",
+    "icon": "http://img11.iqilu.com/33/2019/07/12/40537df10c71a8407002000f63f21f1b.jpg",
+    "stream": "https://alivealone302.litenews.cn/33/a062f1f6a92443149bfd4449a9230a27/playlist.m3u8?k=03475c7f16464f26a1997dde3bb75ec7&t=1758957805",
+    "id": 4,
+    "desc": "武城综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "武城综合频道",
+      "image": "http://img11.iqilu.com/33/2019/07/12/40537df10c71a8407002000f63f21f1b.jpg",
+      "url": "https://iapp.wuchengrmtzx.cn/share/dHZsLTMzLTQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 33,
+    "name": "武城综艺影视频道",
+    "icon": "http://img11.iqilu.com/33/2019/07/12/f74dfa6d223fb23afc9371f565f1bbd1.jpg",
+    "stream": "https://alivealone302.litenews.cn/33/af3e15a0a9b449358c7f2252a2827de5/playlist.m3u8?k=d249f869138a583e601d8d2b99b38d7d&t=1758957805",
+    "id": 6,
+    "desc": "武城综艺影视频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "武城综艺影视频道",
+      "image": "http://img11.iqilu.com/33/2019/07/12/f74dfa6d223fb23afc9371f565f1bbd1.jpg",
+      "url": "https://iapp.wuchengrmtzx.cn/share/dHZsLTMzLTY.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 37,
+    "name": "薛城新闻综合频道",
+    "icon": "https://img11.iqilu.com/37/2020/09/07/a4fbb22f6fc7e0b4c7da05c43833d5bd.png",
+    "stream": "https://alivealone302.litenews.cn/37/c7301ecd8ed848819b7caddb3dc68748/playlist.m3u8?k=abde0b73d4647e0c284af99c3b5b068a&t=1758957806",
+    "desc": "薛城新闻综合频道",
+    "id": 8,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "薛城新闻综合频道",
+      "image": "https://img11.iqilu.com/37/2020/09/07/a4fbb22f6fc7e0b4c7da05c43833d5bd.png",
+      "url": "https://iapp.aixuechengapp.com/share/dHZsLTM3LTg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 39,
+    "name": "有节目的测试",
+    "icon": "https://img11.litenews.cn/39/2025/09/07/f4d0b26d0fb14336a81701b6e1bfb669.jpg",
+    "logo": "https://img11.litenews.cn/39/2025/09/07/64e487da3a294089a02deae2b9b44591.jpg",
+    "stream": "https://alivealone302.litenews.cn/689/bb172d92c0504c77948c3cee3a772e86/playlist.m3u8?k=e78279123e441208384eb9a794366253&t=1758957807",
+    "desc": "好运萝卜",
+    "reviewStream": "https://wsvod.iqilu.com/wssy-sdtvwNyuAE.m3u8",
+    "id": 54,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "有节目的测试",
+      "image": "https://img11.litenews.cn/39/2025/09/07/f4d0b26d0fb14336a81701b6e1bfb669.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTM5LTU0.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 39,
+    "name": "新闻综合频道",
+    "icon": "",
+    "logo": "https://img11.litenews.cn/689/2025/03/31/0881f6eb000147fbab69af35a439ca91.png",
+    "stream": "https://alivealone302.litenews.cn/689/bb172d92c0504c77948c3cee3a772e86/playlist.m3u8?k=e78279123e441208384eb9a794366253&t=1758957807",
+    "desc": "新闻综合频道",
+    "id": 44,
+    "state": 1,
+    "reviewStream": "https://wsvod.iqilu.com/wssy-sdtvwNyuAE.m3u8",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTM5LTQ0.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 43,
+    "name": "高唐综合频道",
+    "icon": "https://img11.iqilu.com/43/2022/05/27/32d796b4985a0d3200699348e16e8eb2.png",
+    "stream": "https://alivealone302.litenews.cn/43/9ad0cb58aba24fbfb58db8779febd0d1/playlist.m3u8?k=d4d234667be883a5fe708b54e3ab6c5d&t=1758957809",
+    "desc": "高唐综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "高唐综合频道",
+      "image": "https://img11.iqilu.com/43/2022/05/27/32d796b4985a0d3200699348e16e8eb2.png",
+      "url": "https://iapp.gaotangrongmei.com/share/dHZsLTQzLTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 43,
+    "name": "高唐综艺频道",
+    "icon": "https://img11.iqilu.com/43/2020/06/11/66b2002fa234a36ffba474667f499aa6.jpg",
+    "stream": "https://alivealone302.litenews.cn/43/b3859631ad774ae8b6ad0c88dfa9154f/playlist.m3u8?k=29c799735dab0c2dd26cb793660eef19&t=1758957809",
+    "desc": "高唐综艺频道",
+    "id": 5,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "高唐综艺频道",
+      "image": "https://img11.iqilu.com/43/2020/06/11/66b2002fa234a36ffba474667f499aa6.jpg",
+      "url": "https://iapp.gaotangrongmei.com/share/dHZsLTQzLTU.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 45,
+    "name": "平度综合频道",
+    "icon": "https://img11.iqilu.com/45/2020/12/03/9e787f0b9f1d65902d147097f0a7afa1.jpg",
+    "stream": "https://alivealone302.litenews.cn/45/807338f470e6432f9595791c50ec290b/playlist.m3u8?k=bc7a5da856bd895c9ea1c151bbc61174&t=1758957809",
+    "id": 4,
+    "desc": "平度综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "平度综合频道",
+      "image": "https://img11.iqilu.com/45/2020/12/03/9e787f0b9f1d65902d147097f0a7afa1.jpg",
+      "url": "https://iapp.aipingduapp.com/share/dHZsLTQ1LTQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 45,
+    "name": "平度生活服务频道",
+    "icon": "https://img11.iqilu.com/45/2020/12/03/5f1bb5b9b87534d0dcbc6981a55df34d.jpg",
+    "stream": "https://alivealone302.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d/playlist.m3u8?k=999564ed83efd92697078cecb20733bf&t=1758957809",
+    "id": 5,
+    "desc": "平度生活服务频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "平度生活服务频道",
+      "image": "https://img11.iqilu.com/45/2020/12/03/5f1bb5b9b87534d0dcbc6981a55df34d.jpg",
+      "url": "https://iapp.aipingduapp.com/share/dHZsLTQ1LTU.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 47,
+    "name": "昌邑新闻综合",
+    "icon": "https://img11.iqilu.com/47/2022/12/05/2d76b52e06345d29703d7c31a0335fc4.png",
+    "stream": "https://alivealone302.litenews.cn/47/202304_1651887490384203776/playlist.m3u8?k=72583336ea7577d6bb4bbc90c18600f6&t=1758957810",
+    "id": 1,
+    "desc": "昌邑新闻综合",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "昌邑新闻综合",
+      "image": "https://img11.iqilu.com/47/2022/12/05/2d76b52e06345d29703d7c31a0335fc4.png",
+      "url": "https://iapp.changyirongmei.com/share/dHZsLTQ3LTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 47,
+    "name": "昌邑经济生活",
+    "icon": "https://img11.iqilu.com/47/2022/12/05/40db1284d3d921756120d71f27921775.png",
+    "stream": "https://alivealone302.litenews.cn/47/202304_1651887490510032896/playlist.m3u8?k=ba239626cacb503a4f77a3bcd5676b9e&t=1758957810",
+    "id": 2,
+    "desc": "昌邑经济生活",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "昌邑经济生活",
+      "image": "https://img11.iqilu.com/47/2022/12/05/40db1284d3d921756120d71f27921775.png",
+      "url": "https://iapp.changyirongmei.com/share/dHZsLTQ3LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 49,
+    "name": "临邑一",
+    "icon": "http://img11.iqilu.com/49/2019/08/09/77f6f089c6491887264da26d740f787f.png",
+    "stream": "https://blivealone302.litenews.cn/b49/b2846904928f4c6fab7d7abf2c788f31/index.m3u8?t=1758961411&k=d1b1790faaf2750fbe4cb9a19594827f",
+    "id": 3,
+    "desc": " ",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "临邑一",
+      "image": "http://img11.iqilu.com/49/2019/08/09/77f6f089c6491887264da26d740f787f.png",
+      "url": "https://iapp.lyxrmtzx.com/share/dHZsLTQ5LTM.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 55,
+    "name": "招远综合频道",
+    "icon": "http://img11.iqilu.com/55/2019/08/14/eb2df86cac178b0f56a65c579c9f3c07.jpg",
+    "stream": "https://alivealone302.litenews.cn/55/cb1dadb15e9141d281823bf62fbadd3c/playlist.m3u8?k=9563258a5a2371c046cf0bae8c173acc&t=1758957813",
+    "id": 2,
+    "desc": "招远综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "招远综合频道",
+      "image": "http://img11.iqilu.com/55/2019/08/14/eb2df86cac178b0f56a65c579c9f3c07.jpg",
+      "url": "https://iapp.zhaoyuanrongmei.com.cn/share/dHZsLTU1LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 55,
+    "name": "招远综艺频道",
+    "icon": "https://img11.iqilu.com/55/2022/09/27/f6cf264a2f0ef068908f7eb25c252ff8.jpg",
+    "stream": "https://alivealone302.litenews.cn/55/d76fb6c7efcd4a609f5746598e93029a/playlist.m3u8?k=7b4dc1e741f9cd8f1f9f1ebca50138d0&t=1758957813",
+    "id": 4,
+    "desc": "招远综艺频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "招远综艺频道",
+      "image": "https://img11.iqilu.com/55/2022/09/27/f6cf264a2f0ef068908f7eb25c252ff8.jpg",
+      "url": "https://iapp.zhaoyuanrongmei.com.cn/share/dHZsLTU1LTQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 59,
+    "name": "新泰综合频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/59/047fc0ac5f804bfaaf8a490913d216fc/playlist.m3u8?k=fca7d8afed98273e6dde81f4ad956a92&t=1758957815",
+    "id": 2,
+    "desc": "新泰综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新泰综合频道",
+      "image": "",
+      "url": "https://iapp.xintairongmei.cn/share/dHZsLTU5LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 59,
+    "name": "新泰乡村频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/59/ef9a5cf77b4d4c0492eb726f591397ca/playlist.m3u8?k=c12d772a7e093350f08df5c8518b9e4d&t=1758957815",
+    "id": 3,
+    "desc": "新泰乡村频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新泰乡村频道",
+      "image": "",
+      "url": "https://iapp.xintairongmei.cn/share/dHZsLTU5LTM.html",
+      "desc": "点击观���精彩节目"
+    }
+  },
+  {
+    "orgId": 61,
+    "name": "高青一套",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/61/b6a7086cc9e847b3af6a32367d9e6f16/playlist.m3u8?k=aec5dc7b2d97c1ef3cdc4caa71654099&t=1758957815",
+    "id": 1,
+    "desc": "高青一套",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "高青一套",
+      "image": "",
+      "url": "https://iapp.gqxrmt.cn/share/dHZsLTYxLTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 61,
+    "name": "高青二套",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/61/56d09086fb25449cb4eefb24f5042937/playlist.m3u8?k=31b1d181d9b6e4d80f74a308e88ea59b&t=1758957815",
+    "id": 2,
+    "desc": "高青二套",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "高青二套",
+      "image": "",
+      "url": "https://iapp.gqxrmt.cn/share/dHZsLTYxLTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 63,
+    "name": "鱼台综合频道",
+    "icon": "http://img11.iqilu.com/63/2019/10/22/ee1e4080c5e91c2291d0d97fa5972f59.png",
+    "stream": "https://alivealone302.litenews.cn/63/513ae5b367f24751a14e36db65237035/playlist.m3u8?k=17b8decd7ed57be531de583ddd959993&t=1758957816",
+    "id": 5,
+    "desc": "鱼台综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "鱼台综合频道",
+      "image": "http://img11.iqilu.com/63/2019/10/22/ee1e4080c5e91c2291d0d97fa5972f59.png",
+      "url": "https://iapp.ytxrmtzx.com/share/dHZsLTYzLTU.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 63,
+    "name": "鱼台生活频道",
+    "icon": "http://img11.iqilu.com/63/2019/10/22/c32cf58cfebc6f0c6f3a577da015f29c.png",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/63/07076ab338564f45b5de93d6be25d15c/playlist.m3u8?k=8eaa7234ccb4f6cce8130ed7a63d6399&t=1758957816",
+    "desc": "鱼台生活频道",
+    "id": 15,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "鱼台生活频道",
+      "image": "http://img11.iqilu.com/63/2019/10/22/c32cf58cfebc6f0c6f3a577da015f29c.png",
+      "url": "https://iapp.ytxrmtzx.com/share/dHZsLTYzLTE1.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 65,
+    "name": "临清综合频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/65/4f25e3acdf8f4df8b28bdc9ee03154a9/playlist.m3u8?k=c51884c4a58f427c57c7ff282876224a&t=1758957817",
+    "id": 2,
+    "desc": "临清综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "临清综合频道",
+      "image": "",
+      "url": "https://iapp.lqrmtzx.cn/share/dHZsLTY1LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 65,
+    "name": "临清经济信息",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/65/3eed23acd4b34ab3867846f86d287559/playlist.m3u8?k=ee4133924348a51e292401cc40ac8306&t=1758957817",
+    "id": 5,
+    "desc": "临清经济信息",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "临清经济信息",
+      "image": "",
+      "url": "https://iapp.lqrmtzx.cn/share/dHZsLTY1LTU.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-1综合",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/705c028f57c8eaac7eeeeb5a48bca9b0.png",
+    "stream": "http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6",
+    "id": 4,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-1综合",
+      "image": "http://img11.iqilu.com/69/2019/10/07/705c028f57c8eaac7eeeeb5a48bca9b0.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "兰陵综合",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/f7efaee95d53ead5fbd2b81a3bf7b957.jpg",
+    "stream": "http://qkqxzb.qingk.cn/live/llsjtv01/index.m3u8?k=a0193bc77dd8638e&t=1570422466",
+    "id": 21,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "兰陵综合",
+      "image": "http://img11.iqilu.com/69/2019/10/07/f7efaee95d53ead5fbd2b81a3bf7b957.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTIx.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-2财经",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/6a85010d9ffc297492ccf797f12ee131.png",
+    "stream": "http://39.135.36.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf",
+    "id": 5,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-2财经",
+      "image": "http://img11.iqilu.com/69/2019/10/07/6a85010d9ffc297492ccf797f12ee131.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTU.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-3综艺",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/5811bc3c6fa6a492a3e6aba996bc9552.png",
+    "stream": "http://39.135.36.141:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh",
+    "id": 6,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-3综艺",
+      "image": "http://img11.iqilu.com/69/2019/10/07/5811bc3c6fa6a492a3e6aba996bc9552.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTY.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-4国际",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/68e5af97f88026bdb8bebb0d938e126e.png",
+    "stream": "http://39.135.36.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS",
+    "id": 22,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-4国际",
+      "image": "http://img11.iqilu.com/69/2019/10/07/68e5af97f88026bdb8bebb0d938e126e.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTIy.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-5体育",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/200e6a33bcc283c499ef63ce88078571.png",
+    "stream": "http://39.135.36.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRFIaTOfcD93c7ACh3puyaR1v%2bioI39cfseenlxp5u9UfADU6BCDl7v7CTGKuGZw1d",
+    "id": 23,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-5体育",
+      "image": "http://img11.iqilu.com/69/2019/10/07/200e6a33bcc283c499ef63ce88078571.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTIz.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-6电影",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/06c3a8be785697b53a8b81ad649d4935.png",
+    "stream": "http://39.135.36.140:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA",
+    "id": 24,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-6电影",
+      "image": "http://img11.iqilu.com/69/2019/10/07/06c3a8be785697b53a8b81ad649d4935.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTI0.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-7军事",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/07c8df9369ed5c91c1619fc8ddfe3485.png",
+    "stream": "http://39.135.36.152:18890/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7050628689018054317&owchid=ystenlive&owsid=1106497909461123525&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5v8WYfJSLSoSDQSshIAsx77pE15UEXEdMCmKIrL5%2f3xV22iBl6KMm%2bLcZrmbA5H1KmAD8EY%2bWAeRUs2LJ9Vxxk",
+    "id": 25,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-7军事",
+      "image": "http://img11.iqilu.com/69/2019/10/07/07c8df9369ed5c91c1619fc8ddfe3485.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTI1.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-8电视剧",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/1118425de551681e45598c6da18ac953.png",
+    "stream": "http://39.135.36.154:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000003736&owchid=ystenlive&owsid=1106497909461132718&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRKhIjYL3aRNrIf2qoTcK90Bd0oe1gvWxxvd9Qs9pkD5eKCeYPeHs2GppHtnd1klhd",
+    "id": 26,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-8电视剧",
+      "image": "http://img11.iqilu.com/69/2019/10/07/1118425de551681e45598c6da18ac953.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTI2.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 69,
+    "name": "CCTV-9记录",
+    "icon": "http://img11.iqilu.com/69/2019/10/07/ccc990061a6f557cea8960748d1692e8.png",
+    "stream": "http://39.135.36.145:18890/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=1106497909461138654&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRh3XYVWmjehcJ6eeMnvhxAUHggQtCK8Xdm86HMC53JU75N56tG8kTzA%2fMocL0w%2bEi",
+    "id": 27,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "CCTV-9记录",
+      "image": "http://img11.iqilu.com/69/2019/10/07/ccc990061a6f557cea8960748d1692e8.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY5LTI3.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 71,
+    "name": "新闻综合",
+    "icon": "https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",
+    "stream": "https://alivealone302.litenews.cn/71/202304_1651887494549147648/playlist.m3u8?k=b5a67e6006859450bb88f3470c921daa&t=1758957819",
+    "desc": "新闻综合",
+    "id": 24,
+    "logo": "https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",
+      "url": "https://iapp.gaominews.com/share/dHZsLTcxLTI0.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 71,
+    "name": "党建农科",
+    "icon": "https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",
+    "stream": "https://alivealone302.litenews.cn/71/202304_1651887494448484352/playlist.m3u8?k=3d57e238e2991ae8c323e2342b40a669&t=1758957819",
+    "desc": "党建农科",
+    "id": 38,
+    "logo": "https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "党建农科",
+      "image": "https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",
+      "url": "https://iapp.gaominews.com/share/dHZsLTcxLTM4.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 73,
+    "name": "新闻综合",
+    "icon": "http://img11.iqilu.com/73/2019/10/28/01b9a482dad69c1438fdf43004a3f55c.jpg",
+    "stream": "https://alivealone302.litenews.cn/73/496121efe22945dea02ab6c28519359a/playlist.m3u8?k=46ba0282e7edd035a17e95bd8e0eb5fc&t=1758957820",
+    "id": 8,
+    "desc": "新闻综合",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "http://img11.iqilu.com/73/2019/10/28/01b9a482dad69c1438fdf43004a3f55c.jpg",
+      "url": "https://iapp.rcrmt.cn/share/dHZsLTczLTg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 73,
+    "name": "影视娱乐",
+    "icon": "http://img11.iqilu.com/73/2019/10/28/4b3ee74f6156d7bffbb6d7cf1a9b40ae.jpg",
+    "stream": "https://alivealone302.litenews.cn/73/8335c86a46884e4295d741d4d98fc315/playlist.m3u8?k=f0040ae7d9561d6aaa9b85fef5772ed8&t=1758957820",
+    "id": 9,
+    "desc": "影视娱乐",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "影视娱乐",
+      "image": "http://img11.iqilu.com/73/2019/10/28/4b3ee74f6156d7bffbb6d7cf1a9b40ae.jpg",
+      "url": "https://iapp.rcrmt.cn/share/dHZsLTczLTk.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 75,
+    "name": "新闻频道",
+    "icon": "http://img11.iqilu.com/75/2019/09/03/6bad20ae6efab5b92999cbfe2ab70c8a.png",
+    "stream": "https://alivealone302.litenews.cn/75/e098572c32494659bfe04c369a8fddca/playlist.m3u8?k=ff18c6286d89ff4863ee05268ba56341&t=1758957821",
+    "id": 1,
+    "desc": "淄川新闻",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻频道",
+      "image": "http://img11.iqilu.com/75/2019/09/03/6bad20ae6efab5b92999cbfe2ab70c8a.png",
+      "url": "https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 75,
+    "name": "生活频道",
+    "icon": "http://img11.iqilu.com/75/2019/09/03/b9740736afa183a581fcb1ed2528c98f.png",
+    "stream": "https://alivealone302.litenews.cn/75/b6b674d2efcd427383c052e343dafc2d/playlist.m3u8?k=680269f63163ab0fbfeba0fb09af6b5b&t=1758957821",
+    "id": 2,
+    "desc": "淄川生活",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "http://img11.iqilu.com/75/2019/09/03/b9740736afa183a581fcb1ed2528c98f.png",
+      "url": "https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 77,
+    "name": "荣成综合",
+    "icon": "https://img11.iqilu.com/77/2020/04/13/2be38427caccbfcdc66d942d13d01404.png",
+    "stream": "https://alivealone302.litenews.cn/77/8fee08439d704c96a065c38f42d2bac8/playlist.m3u8?k=8babcb151734432f9c363ef831566ad4&t=1758957822",
+    "id": 10,
+    "desc": "荣成综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "荣成综合",
+      "image": "https://img11.iqilu.com/77/2020/04/13/2be38427caccbfcdc66d942d13d01404.png",
+      "url": "https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 77,
+    "name": "荣成生活",
+    "icon": "https://img11.iqilu.com/77/2020/04/13/d8f9b0205fc23d1cda757345ccfe004d.png",
+    "stream": "https://alivealone302.litenews.cn/77/4efab9419e7c4d9398a9ac543bba7565/playlist.m3u8?k=a6e5cc9f6c30d6a13e6203fca15d46fc&t=1758957822",
+    "id": 11,
+    "desc": "荣成生活频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "荣成生活",
+      "image": "https://img11.iqilu.com/77/2020/04/13/d8f9b0205fc23d1cda757345ccfe004d.png",
+      "url": "https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEx.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 79,
+    "name": "冠县综合频道",
+    "icon": "https://img11.iqilu.com/79/2020/06/08/a42d2985450aab70e9c1e9c711fe1f0f.jpg",
+    "stream": "https://alivealone302.litenews.cn/79/c1e45c084a224c8fac75bb7ae8ff4d97/playlist.m3u8?k=f2740f36d338dbe4aea39cc8006537d3&t=1758957823",
+    "desc": "冠县综合频道是冠县人的第一电视频道，是冠县观众获取新闻资讯，了解第一时事的重要渠道，在当地具有很高的认知度和美誉度。现有的《冠县新闻》《一线冠察》等品牌栏目深受观众的喜爱，社会影响力和美誉度不断攀升，收视率名列前茅。《提案有声》《委员风采》《人大之窗》栏目充分展示各代表、委员在本职工作中的模范带头作用，争当联系群众的桥梁。《人社时空》《市场之窗》《卫健之窗》等栏目贴近生活，贴近实际，是各个单位展示自身形象的平台，受到观众的一致好评。",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "冠县综合频道",
+      "image": "https://img11.iqilu.com/79/2020/06/08/a42d2985450aab70e9c1e9c711fe1f0f.jpg",
+      "url": "https://iapp.guanxianrongmei.com/share/dHZsLTc5LTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 83,
+    "name": "郯城TV-1",
+    "icon": "http://img11.iqilu.com/83/2019/09/16/6e02837c443df92d8a834485d9df323f.jpg",
+    "stream": "https://alivealone302.litenews.cn/83/b583b63e08e54d2dbbb84e6966cbc38d/playlist.m3u8?k=7394992c770ce9baf580a85cb417cdc1&t=1758957824",
+    "id": 1,
+    "desc": "郯城综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "郯城TV-1",
+      "image": "http://img11.iqilu.com/83/2019/09/16/6e02837c443df92d8a834485d9df323f.jpg",
+      "url": "https://iapp.tanchengtv.com/share/dHZsLTgzLTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 83,
+    "name": "郯城TV-2",
+    "icon": "http://img11.iqilu.com/83/2019/09/16/3ac28dcb76c5662f2d56fd42cd2891cd.jpg",
+    "stream": "https://alivealone302.litenews.cn/83/ad4b20ff29d74494b60360a158cd75c4/playlist.m3u8?k=d93d235a42b0ca87e7b0272e38d372fc&t=1758957824",
+    "id": 2,
+    "desc": "郯城",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "郯城TV-2",
+      "image": "http://img11.iqilu.com/83/2019/09/16/3ac28dcb76c5662f2d56fd42cd2891cd.jpg",
+      "url": "https://iapp.tanchengtv.com/share/dHZsLTgzLTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 85,
+    "name": "济阳综合",
+    "icon": "http://img11.iqilu.com/85/2019/09/20/b01e3a145ebb3bf45c3be7f6a5eb5563.jpg",
+    "stream": "https://alivealone302.litenews.cn/85/0712501e108d4494b30851e7b527a4da/playlist.m3u8?k=2506d15cea28c4fa7f8aadd4c10f69d0&t=1758957825",
+    "id": 1,
+    "desc": "济阳综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "济阳综合",
+      "image": "http://img11.iqilu.com/85/2019/09/20/b01e3a145ebb3bf45c3be7f6a5eb5563.jpg",
+      "url": "https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 85,
+    "name": "济阳影视",
+    "icon": "https://img11.iqilu.com/85/2019/11/04/16f811e37834aa6920557211b5bcdd03.jpg",
+    "stream": "https://alivealone302.litenews.cn/85/1527ae3203724176bfca87dd3f0954ee/playlist.m3u8?k=0acdc8dee58fb2692e65e9c7d9c7eef9&t=1758957825",
+    "id": 2,
+    "desc": "济阳影视频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "济阳影视",
+      "image": "https://img11.iqilu.com/85/2019/11/04/16f811e37834aa6920557211b5bcdd03.jpg",
+      "url": "https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 87,
+    "name": "曹县融媒体中心综合频道",
+    "icon": "http://img11.iqilu.com/87/2019/09/20/27e5f82087162733038d42dd51e31c9a.png",
+    "stream": "https://alivealone302.litenews.cn/87/17899f8e9ec8476991285406f464ed29/playlist.m3u8?k=e9aa5c3f1ebfe2a06cd96141539081a5&t=1758957826",
+    "id": 2,
+    "desc": " ",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "曹县融媒体中心综合频道",
+      "image": "http://img11.iqilu.com/87/2019/09/20/27e5f82087162733038d42dd51e31c9a.png",
+      "url": "https://iapp.caoxianrongmei.cn/share/dHZsLTg3LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 91,
+    "name": "文登一台",
+    "icon": "http://img11.iqilu.com/91/2019/09/23/b1ce271fdfe56bbf19903bab8fd5257f.jpg",
+    "stream": "https://alivealone302.litenews.cn/91/13cc6cb1119e4dc2a4d92969de419459/playlist.m3u8?k=b180606b5e914602f4cdc2785287fd89&t=1758957827",
+    "id": 7,
+    "desc": " ",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "文登一台",
+      "image": "http://img11.iqilu.com/91/2019/09/23/b1ce271fdfe56bbf19903bab8fd5257f.jpg",
+      "url": "https://iapp.wendengsf.com/share/dHZsLTkxLTc.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 91,
+    "name": "文登二台",
+    "icon": "http://img11.iqilu.com/91/2019/09/23/78f22c7dfcdc0becef63d652450d7887.jpg",
+    "stream": "https://alivealone302.litenews.cn/91/6aac1e7e4bb946bc9833ae1cbc13e67e/playlist.m3u8?k=e435e0660251b429a8e5a97de10861b6&t=1758957827",
+    "id": 8,
+    "desc": " ",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "文登二台",
+      "image": "http://img11.iqilu.com/91/2019/09/23/78f22c7dfcdc0becef63d652450d7887.jpg",
+      "url": "https://iapp.wendengsf.com/share/dHZsLTkxLTg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 91,
+    "name": "电台直播",
+    "icon": "https://img11.litenews.cn/91/2023/05/10/cfca53779ef767bfe50941a0271427df.jpg",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/91/26218f14bfcf4b7097b40c3831f0fc28/playlist.m3u8?k=4478cbc25c29a3ed8454e148251cf0b1&t=1758957827",
+    "desc": " ",
+    "id": 21,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "电台直播",
+      "image": "https://img11.litenews.cn/91/2023/05/10/cfca53779ef767bfe50941a0271427df.jpg",
+      "url": "https://iapp.wendengsf.com/share/dHZsLTkxLTIx.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 95,
+    "name": "东阿县融媒体中心新闻综合频道",
+    "icon": "https://img11.litenews.cn/95/2024/09/24/da0176a6121c5221eeedccc5de4693af.jpg",
+    "stream": "https://alivealone302.litenews.cn/95/bf5a457c7ecb4fcb96e9592edcfa9c9a/playlist.m3u8?k=50955fa85463a7a7e56e63c5db8b8134&t=1758957829",
+    "desc": "东阿县融媒中心综合频道",
+    "id": 22,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "东阿县融媒体中心新闻综合频道",
+      "image": "https://img11.litenews.cn/95/2024/09/24/da0176a6121c5221eeedccc5de4693af.jpg",
+      "url": "https://iapp.decmc.cn/share/dHZsLTk1LTIy.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 95,
+    "name": "东阿县融媒体中心综合信息频道",
+    "icon": "https://img11.litenews.cn/95/2024/09/24/da0176a6121c5221eeedccc5de4693af.jpg",
+    "stream": "https://alivealone302.litenews.cn/95/f44944f928d44aecb7e90b46ac53f10d/playlist.m3u8?k=42aa45ab3d8f4daf6435b68ce9c20b67&t=1758957829",
+    "desc": "东阿县融媒中心综艺频道",
+    "id": 29,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "东阿县融媒体中心综合信息频道",
+      "image": "https://img11.litenews.cn/95/2024/09/24/da0176a6121c5221eeedccc5de4693af.jpg",
+      "url": "https://iapp.decmc.cn/share/dHZsLTk1LTI5.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 95,
+    "name": "洛神湖慢直播",
+    "icon": "",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/95/c925d60edb434e6285d9b5e3c234eb9a/playlist.m3u8?k=cb85fec8eebbe3a1996bfc527c09c814&t=1758957829",
+    "desc": "以洛神湖景色为主题的直播频道，通过实时直播展示洛神湖周边的美丽风景和自然景观。",
+    "id": 71,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "洛神湖慢直播",
+      "image": "",
+      "url": "https://iapp.decmc.cn/share/dHZsLTk1LTcx.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 97,
+    "name": "商河综合频道",
+    "icon": "https://img11.iqilu.com/97/2022/04/28/f2df22ef9401d4e9a6317d8bce36541c.jpg",
+    "stream": "https://alivealone302.litenews.cn/261/66867590127349f3bc7f908199cbbf40/playlist.m3u8?k=a7309b69d07ce0c484fd3bdb2903ab2b&t=1758957829",
+    "id": 1,
+    "desc": "商河综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "商河综合频道",
+      "image": "https://img11.iqilu.com/97/2022/04/28/f2df22ef9401d4e9a6317d8bce36541c.jpg",
+      "url": "https://iapp.shxrmtzx.com/share/dHZsLTk3LTE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 97,
+    "name": "商河影视频道",
+    "icon": "https://img11.iqilu.com/97/2022/04/28/3ee219f867bd346f35efb27e60baf4b9.jpg",
+    "stream": "https://alivealone302.litenews.cn/261/18aef04fdb68469da1c11028d80b69c8/playlist.m3u8?k=adbc6e64a8b47f1f24eaf669afc907fa&t=1758957829",
+    "id": 2,
+    "desc": "商河影视频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "商河影视频道",
+      "image": "https://img11.iqilu.com/97/2022/04/28/3ee219f867bd346f35efb27e60baf4b9.jpg",
+      "url": "https://iapp.shxrmtzx.com/share/dHZsLTk3LTI.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 101,
+    "name": "ZDTV-1",
+    "icon": "http://img11.iqilu.com/101/2019/10/11/cac3a6d980a083b956f32af413efc02f.jpg",
+    "stream": "https://alivealone302.litenews.cn/101/26255fe556d14adbbe0aa5b138974e22/playlist.m3u8?k=e392ec0ee1abfdb830c6bf7cc2ddc5c6&t=1758957831",
+    "id": 1,
+    "desc": "张店电视1",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "ZDTV-1",
+      "image": "http://img11.iqilu.com/101/2019/10/11/cac3a6d980a083b956f32af413efc02f.jpg",
+      "url": "https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 101,
+    "name": "ZDTV-2",
+    "icon": "http://img11.iqilu.com/101/2019/10/11/b1f16c2c98d409daeffcc3a220d9a736.jpg",
+    "stream": "https://alivealone302.litenews.cn/101/2e49c32b085149f08128b1fdff33af04/playlist.m3u8?k=03a07ee041c01d25b970dce09c399835&t=1758957831",
+    "id": 6,
+    "desc": "张店电视2",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "ZDTV-2",
+      "image": "http://img11.iqilu.com/101/2019/10/11/b1f16c2c98d409daeffcc3a220d9a736.jpg",
+      "url": "https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 103,
+    "name": "滕州新闻综合频道",
+    "icon": "https://img11.iqilu.com/103/2019/11/28/e920129c09d677aefd403e272d379d70.jpg",
+    "stream": "https://alivealone302.litenews.cn/103/755c13a0f07845da8570ce98374a89c5/playlist.m3u8?k=5d31565e720e97aacca3a1b84f8c4579&t=1758957832",
+    "id": 2,
+    "desc": "滕州新闻综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "滕州新闻综合频道",
+      "image": "https://img11.iqilu.com/103/2019/11/28/e920129c09d677aefd403e272d379d70.jpg",
+      "url": "https://iapp.tzrmt.com/share/dHZsLTEwMy0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 103,
+    "name": "滕州民生频道",
+    "icon": "https://img11.iqilu.com/103/2019/11/28/4c4fbcf0e96a9850b01171365bcc9aa0.jpg",
+    "stream": "https://jsylivealone302.iqilu.com/tengzhou/tengzhou_tv02/index.m3u8?t=1758961432&k=c373d0f35b61dd43c56bd97803e5b97e",
+    "id": 3,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "滕州民生频道",
+      "image": "https://img11.iqilu.com/103/2019/11/28/4c4fbcf0e96a9850b01171365bcc9aa0.jpg",
+      "url": "https://iapp.tzrmt.com/share/dHZsLTEwMy0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 109,
+    "name": "蓬莱区融媒体中心综合频道",
+    "icon": "https://img11.iqilu.com/109/2019/11/21/bb4ab04199fe6803e7fdc8251bc782e9.jpg",
+    "stream": "https://alivealone302.litenews.cn/109/02dc014cb885430d8856103f1b98e3fc/playlist.m3u8?k=c3200e68a860f2731b70068ded97a2c2&t=1758957834",
+    "id": 1,
+    "desc": "蓬莱区融媒体中心综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "蓬莱区融媒体中心综合频道",
+      "image": "https://img11.iqilu.com/109/2019/11/21/bb4ab04199fe6803e7fdc8251bc782e9.jpg",
+      "url": "https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 109,
+    "name": "蓬莱区融媒体中心综艺频道",
+    "icon": "https://img11.iqilu.com/109/2019/11/21/c84694367f7297b58b286c6658c32bb0.jpg",
+    "stream": "https://alivealone302.litenews.cn/109/0d7021643d0f40a0bf8390afe27a7003/playlist.m3u8?k=cb03e384ee98e1d0b957fe81f1670049&t=1758957834",
+    "id": 2,
+    "desc": "蓬莱区融媒体中心综艺频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "蓬莱区融媒体中心综艺频道",
+      "image": "https://img11.iqilu.com/109/2019/11/21/c84694367f7297b58b286c6658c32bb0.jpg",
+      "url": "https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 111,
+    "name": "新闻综合频道",
+    "icon": "https://img11.iqilu.com/111/2020/02/21/973752d4ed7ac0ce07e3b0bebc3ae09e.jpg",
+    "stream": "https://alivealone302.litenews.cn/111/1a4ac1893b464bbe8113ebae62842aca/playlist.m3u8?k=68483265d77838c36f12ae9ca2029e12&t=1758957835",
+    "id": 2,
+    "desc": "新闻综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "https://img11.iqilu.com/111/2020/02/21/973752d4ed7ac0ce07e3b0bebc3ae09e.jpg",
+      "url": "https://iapp.dongmingrongmei.cn/share/dHZsLTExMS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 113,
+    "name": "兰陵综合",
+    "icon": "https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",
+    "logo": "https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",
+    "stream": "https://alivealone302.litenews.cn/113/039af3d385e04720a4dc42f36382b119/playlist.m3u8?k=275aeee519ee4cbfb28672656fad6a69&t=1758957835",
+    "desc": "兰陵综合频道",
+    "id": 131,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "兰陵综合",
+      "image": "https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",
+      "url": "https://iapp.llxrmtzx.com/share/dHZsLTExMy0xMzE.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 113,
+    "name": "兰陵公共",
+    "icon": "https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",
+    "logo": "https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",
+    "stream": "https://alivealone302.litenews.cn/113/157db250f3974f3f9c28d7a30c313cf5/playlist.m3u8?k=c5c4c1ecb3f89f54b9207befd04f6154&t=1758957835",
+    "desc": "兰陵公共频道",
+    "id": 133,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "兰陵公共",
+      "image": "https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",
+      "url": "https://iapp.llxrmtzx.com/share/dHZsLTExMy0xMzM.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 113,
+    "name": "文化广场",
+    "icon": "",
+    "logo": "",
+    "stream": "https://elivealone302.litenews.cn/113/YuPgDEVQEvFkCajKtJcezff5CYwwGnam/playlist.m3u8?k=ef89166cbd9b87fd84d2b3d358d47be3&t=1758957835",
+    "desc": "测试广场",
+    "id": 66,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "文化广场",
+      "image": "",
+      "url": "https://iapp.llxrmtzx.com/share/dHZsLTExMy02Ng.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 113,
+    "name": "听广播",
+    "icon": "https://img11.litenews.cn/113/2023/08/15/40d9e4478ba2de8211df8ee0fc02143c.jpg",
+    "logo": "https://img11.litenews.cn/113/2023/08/15/40d9e4478ba2de8211df8ee0fc02143c.jpg",
+    "stream": "https://alivealone302.litenews.cn/113/1ee9f9ffd4b9438897e92e84df8c1fa6/playlist.m3u8?k=4ae373bdb8679b5847f5e383f094d737&t=1758957835",
+    "desc": "FM100.1",
+    "id": 62,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "听广播",
+      "image": "https://img11.litenews.cn/113/2023/08/15/40d9e4478ba2de8211df8ee0fc02143c.jpg",
+      "url": "https://iapp.llxrmtzx.com/share/dHZsLTExMy02Mg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 113,
+    "name": "首发直播",
+    "icon": "https://img11.iqilu.com/113/2023/01/19/1729c427905094acc4c187f4d91cd192.png",
+    "stream": "https://elivealone302.litenews.cn/113/YDgwgPfu68DDYXhrS5qrDNsZN7D3Pfzf/playlist.m3u8?k=5d8ad8f494d1b52ae863f604f004c005&t=1758957835",
+    "desc": "首发直播（测试）",
+    "id": 8,
+    "logo": "https://img11.iqilu.com/113/2023/01/19/1729c427905094acc4c187f4d91cd192.png",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "首发直播",
+      "image": "https://img11.iqilu.com/113/2023/01/19/1729c427905094acc4c187f4d91cd192.png",
+      "url": "https://iapp.llxrmtzx.com/share/dHZsLTExMy04.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 113,
+    "name": "FM100.1",
+    "icon": "https://img11.iqilu.com/113/2023/01/19/1729c427905094acc4c187f4d91cd192.png",
+    "logo": "https://img11.iqilu.com/113/2023/01/19/1729c427905094acc4c187f4d91cd192.png",
+    "stream": "https://camlive302.iqilu.com/lanling/lanlinglive03/playlist.m3u8",
+    "desc": "兰陵人民广播电台",
+    "id": 53,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "FM100.1",
+      "image": "https://img11.iqilu.com/113/2023/01/19/1729c427905094acc4c187f4d91cd192.png",
+      "url": "https://iapp.llxrmtzx.com/share/dHZsLTExMy01Mw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 117,
+    "name": "泗水综合",
+    "icon": "https://img11.iqilu.com/117/2020/01/14/45c05e6539761ed14351947b342656a9.jpg",
+    "stream": "https://alivealone302.litenews.cn/117/957af2470f0846f99a0f446f74532ea9/playlist.m3u8?k=da7adee35efdd1c30053b49d1f6c396a&t=1758957837",
+    "id": 5,
+    "desc": "泗水新闻综合",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "泗水综合",
+      "image": "https://img11.iqilu.com/117/2020/01/14/45c05e6539761ed14351947b342656a9.jpg",
+      "url": "https://iapp.sishuitv.com/share/dHZsLTExNy01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 117,
+    "name": "泗水生活",
+    "icon": "https://img11.iqilu.com/117/2020/01/14/3e341326dd9cf5d2ab4ec237ed3a9b31.jpg",
+    "stream": "https://alivealone302.litenews.cn/117/06862dc2472f4acebc7544620879f558/playlist.m3u8?k=65dfa964db0cc172c1303bd46a6b0846&t=1758957837",
+    "id": 6,
+    "desc": "泗水文化生活",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "泗水生活",
+      "image": "https://img11.iqilu.com/117/2020/01/14/3e341326dd9cf5d2ab4ec237ed3a9b31.jpg",
+      "url": "https://iapp.sishuitv.com/share/dHZsLTExNy02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 121,
+    "name": "山东卫视",
+    "icon": "",
+    "logo": "",
+    "stream": "https://jsylivealone302.iqilu.com/nochain/sdtv/index.m3u8?t=1758961439&k=da894cfb07cddc54fe22b73ad905319a",
+    "desc": "综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "山东卫视",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTEyMS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 121,
+    "name": "齐鲁频道",
+    "icon": "",
+    "logo": "",
+    "stream": "https://jsylivealone302.iqilu.com/nochain/qlpd/index.m3u8?t=1758961439&k=2412f3f5c6f1cf38dada164a9ad4433b",
+    "desc": "齐鲁频道",
+    "id": 4,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "齐鲁频道",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTEyMS00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 123,
+    "name": "宁阳综合频道",
+    "icon": "https://img11.iqilu.com/123/2020/03/13/242cdc084f028417f3b231396b890e79.jpg",
+    "stream": "https://alivealone302.litenews.cn/123/bb0535194dad44bc95eb2e53b1711aeb/playlist.m3u8?k=af855aaf321c80ddf5649de0ff6f8b28&t=1758957839",
+    "id": 1,
+    "desc": "宁阳综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "宁阳综合频道",
+      "image": "https://img11.iqilu.com/123/2020/03/13/242cdc084f028417f3b231396b890e79.jpg",
+      "url": "https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 123,
+    "name": "宁阳-2",
+    "icon": "https://img11.iqilu.com/123/2020/03/13/364336f843474d52af46361bc3d168eb.jpg",
+    "stream": "https://alivealone302.litenews.cn/123/1c9fe1197fbc402ebdb9e592269594eb/playlist.m3u8?k=2800ed9a17036bb8baf51be137f3986d&t=1758957839",
+    "id": 7,
+    "desc": "宁阳-2",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "宁阳-2",
+      "image": "https://img11.iqilu.com/123/2020/03/13/364336f843474d52af46361bc3d168eb.jpg",
+      "url": "https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 125,
+    "name": "【青州】综合",
+    "icon": "",
+    "stream": "http://222.132.51.218:2036/live/stream:1.stream/playlist.m3u8",
+    "id": 2,
+    "desc": "青州电视台-综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "【青州】综合",
+      "image": "",
+      "url": "https://iapp.qingzhounews.cn/share/dHZsLTEyNS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 125,
+    "name": "【青州】文化旅游",
+    "icon": "",
+    "stream": "http://222.132.51.218:2036/live/stream:3.stream/playlist.m3u8",
+    "id": 3,
+    "desc": "文化旅游频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "【青州】文化旅游",
+      "image": "",
+      "url": "https://iapp.qingzhounews.cn/share/dHZsLTEyNS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 127,
+    "name": "奎文电视台",
+    "icon": "https://img11.iqilu.com/127/2020/04/07/a3bec6ca8416f29cfb77093bb81bef54.png",
+    "stream": "https://alivealone302.litenews.cn/127/202304_1651887503323631616/playlist.m3u8?k=fe674f1f30be5d33fc64dfc5451eed02&t=1758957841",
+    "desc": " ",
+    "id": 17,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "奎文电视台",
+      "image": "https://img11.iqilu.com/127/2020/04/07/a3bec6ca8416f29cfb77093bb81bef54.png",
+      "url": "https://iapp.wfkwrm.com/share/dHZsLTEyNy0xNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 129,
+    "name": "综合频道",
+    "icon": "http://img11.iqilu.com/129/2019/10/17/3bc1df8c48a2bbb67ea8b6591b10648a.jpg",
+    "stream": "https://alivealone302.litenews.cn/129/bb7fd61fcc61444ba786a7da7ebe4325/playlist.m3u8?k=c03d64e2843fb922762436e6d443f0a8&t=1758957842",
+    "id": 2,
+    "desc": "金乡县融媒体中心",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "http://img11.iqilu.com/129/2019/10/17/3bc1df8c48a2bbb67ea8b6591b10648a.jpg",
+      "url": "https://iapp.jxrm.net/share/dHZsLTEyOS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 129,
+    "name": "生活频道",
+    "icon": "http://img11.iqilu.com/129/2019/10/17/fb1c2f3edc7b66510242cdd5038ad43b.jpg",
+    "stream": "https://alivealone302.litenews.cn/129/ad461c2549aa4e3e90da924ed10a5f03/playlist.m3u8?k=247d4e22b4768722b88d7c8acf6c3faa&t=1758957842",
+    "id": 4,
+    "desc": "金乡县融媒体中心",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "http://img11.iqilu.com/129/2019/10/17/fb1c2f3edc7b66510242cdd5038ad43b.jpg",
+      "url": "https://iapp.jxrm.net/share/dHZsLTEyOS00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 131,
+    "name": "综合频道",
+    "icon": "http://img11.iqilu.com/131/2019/10/18/03c33962287c444c6da6c8d654a3814e.jpg",
+    "stream": "https://alivealone302.litenews.cn/131/fe5bb10e7b4845a784116b133146698a/playlist.m3u8?k=a43d58741b723d6fd7c6847ec793b2f1&t=1758957842",
+    "id": 1,
+    "desc": "成武县融媒体中心综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "http://img11.iqilu.com/131/2019/10/18/03c33962287c444c6da6c8d654a3814e.jpg",
+      "url": "https://iapp.cwcmc.cn/share/dHZsLTEzMS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 131,
+    "name": "综艺频道",
+    "icon": "http://img11.iqilu.com/131/2019/10/18/89010ea387ffa2079662899715859ae4.jpg",
+    "stream": "https://alivealone302.litenews.cn/131/44014c16d42d4929bb9bc2dd94572a3a/playlist.m3u8?k=94e89d1fd02ba27cf69538af9b6925a9&t=1758957842",
+    "id": 2,
+    "desc": "成武县融媒体中心综艺频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综艺频道",
+      "image": "http://img11.iqilu.com/131/2019/10/18/89010ea387ffa2079662899715859ae4.jpg",
+      "url": "https://iapp.cwcmc.cn/share/dHZsLTEzMS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 133,
+    "name": "寒亭新闻频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/133/202304_1651887504326070272/playlist.m3u8?k=cbec7da4fa81d8130fa88889410c0c12&t=1758957843",
+    "id": 1,
+    "desc": "寒亭新闻频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "寒亭新闻频道",
+      "image": "",
+      "url": "https://iapp.httv.cn/share/dHZsLTEzMy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 135,
+    "name": "郓城综合",
+    "icon": "http://img11.iqilu.com/135/2019/10/28/bf458f19cccb791a4397ae4986986459.png",
+    "stream": "https://alivealone302.litenews.cn/135/a259f9de3bcf42508693588016f372bc/playlist.m3u8?k=262b5b7a55cc907863331c4480eed47f&t=1758957844",
+    "id": 3,
+    "desc": "郓城综合",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "郓城综合",
+      "image": "http://img11.iqilu.com/135/2019/10/28/bf458f19cccb791a4397ae4986986459.png",
+      "url": "https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 135,
+    "name": "民生综艺",
+    "icon": "http://img11.iqilu.com/135/2019/10/28/3f4b3c85fec131b0fd7ad0610aef4180.png",
+    "stream": "https://alivealone302.litenews.cn/135/d2513d89443546a6a96daefb51d4406c/playlist.m3u8?k=08ac3d2cbe3dde5f56bbc2f577eaaded&t=1758957844",
+    "id": 2,
+    "desc": "民生综艺",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "民生综艺",
+      "image": "http://img11.iqilu.com/135/2019/10/28/3f4b3c85fec131b0fd7ad0610aef4180.png",
+      "url": "https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 137,
+    "name": "新闻综合",
+    "icon": "http://img11.iqilu.com/137/2019/10/29/3e8ff94691a06f9b9dccc9c0f9ef0c5f.jpg",
+    "stream": "https://alivealone302.litenews.cn/137/3442fc7ba2744a4b899f1d4c43b8d01f/playlist.m3u8?k=5349024dc461a00d7663f472e35e8454&t=1758957845",
+    "id": 3,
+    "desc": "新闻频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "http://img11.iqilu.com/137/2019/10/29/3e8ff94691a06f9b9dccc9c0f9ef0c5f.jpg",
+      "url": "https://iapp.aianqiu.cn/share/dHZsLTEzNy0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 137,
+    "name": "民生频道",
+    "icon": "http://img11.iqilu.com/137/2019/10/29/50179260359a51bb7c2da20aed87a036.jpg",
+    "stream": "https://alivealone302.litenews.cn/137/404a4729eb544d84a2491dd37137be95/playlist.m3u8?k=0584019efd7860cc200095fcf2000f8f&t=1758957845",
+    "id": 4,
+    "desc": "民生频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "民生频道",
+      "image": "http://img11.iqilu.com/137/2019/10/29/50179260359a51bb7c2da20aed87a036.jpg",
+      "url": "https://iapp.aianqiu.cn/share/dHZsLTEzNy00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 139,
+    "name": "新闻频道",
+    "icon": "https://img11.iqilu.com/139/2019/10/30/01d116e5ab4bcf2bb0d8c84586887949.png",
+    "stream": "https://alivealone302.litenews.cn/139/c4110c0e12d7493bb17b455c15a203f5/playlist.m3u8?k=0e60e74fe73917b34a0c7a8c302e1404&t=1758957846",
+    "id": 1,
+    "desc": "综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻频道",
+      "image": "https://img11.iqilu.com/139/2019/10/30/01d116e5ab4bcf2bb0d8c84586887949.png",
+      "url": "https://iapp.juyerongmei.cn/share/dHZsLTEzOS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 141,
+    "name": "鄄城综合频道",
+    "icon": "",
+    "stream": "https://blivealone302.litenews.cn/b141/bdc2125bc05546ce8a02e7b58747a518/index.m3u8?t=1758961446&k=3a7ab672654f9108e635c47a76d2b992",
+    "desc": "鄄城综合频道",
+    "id": 186,
+    "state": 1,
+    "logo": "https://img11.litenews.cn/141/2025/08/12/a82581fc425f410380de04ebadb55e3b.png",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "鄄城综合频道",
+      "image": "",
+      "url": "https://iapp.juanchengrongmei.cn/share/dHZsLTE0MS0xODY.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 141,
+    "name": "鄄城综艺频道",
+    "icon": "",
+    "logo": "https://img11.litenews.cn/141/2025/08/12/d6aa0c9da31342628f166ec4c948a4d1.png",
+    "stream": "https://blivealone302.litenews.cn/b141/e5806b27ce0843ed8e9709cfd684fa7c/index.m3u8?t=1758961446&k=4fa0a0ecf014eda9645d80d8f8c36903",
+    "desc": "鄄城综艺频道",
+    "id": 274,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "鄄城综艺频道",
+      "image": "",
+      "url": "https://iapp.juanchengrongmei.cn/share/dHZsLTE0MS0yNzQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 143,
+    "name": "综合频道",
+    "icon": "https://img11.iqilu.com/143/2019/12/04/b83105d67d795a22f10e9c5a2a4a70bd.jpg",
+    "stream": "https://alivealone302.litenews.cn/143/8aceae358efb405697467d5a8c33fabb/playlist.m3u8?k=819280438558d6769cb2916ce9fd2f87&t=1758957847",
+    "id": 8,
+    "desc": "乳山广播电视台综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "https://img11.iqilu.com/143/2019/12/04/b83105d67d795a22f10e9c5a2a4a70bd.jpg",
+      "url": "https://iapp.rushanrongmei.cn/share/dHZsLTE0My04.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 143,
+    "name": "生活频道",
+    "icon": "https://img11.iqilu.com/143/2019/12/04/92a8f8eee69d466928bdf95fa94e9306.jpg",
+    "stream": "https://alivealone302.litenews.cn/143/7aa1513e8b9444d8a872e3f66a8cff5e/playlist.m3u8?k=190c172570c48c8022e31fb2be80cc3d&t=1758957847",
+    "id": 9,
+    "desc": "生活频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "https://img11.iqilu.com/143/2019/12/04/92a8f8eee69d466928bdf95fa94e9306.jpg",
+      "url": "https://iapp.rushanrongmei.cn/share/dHZsLTE0My05.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 145,
+    "name": "沂水综合",
+    "icon": "https://img11.iqilu.com/145/2022/10/18/551742b29526d69ea3eeeef44bb0dc79.jpg",
+    "stream": "https://alivealone302.litenews.cn/145/3747a14c81ee4cd3a67aa7b9edfd7e02/playlist.m3u8?k=250a6acb1e489bced6b75271829ab9e9&t=1758957848",
+    "id": 1,
+    "desc": "沂水电视台综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "沂水综合",
+      "image": "https://img11.iqilu.com/145/2022/10/18/551742b29526d69ea3eeeef44bb0dc79.jpg",
+      "url": "https://iapp.yishuishoufa.com/share/dHZsLTE0NS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 145,
+    "name": "沂水生活",
+    "icon": "https://img11.iqilu.com/145/2022/10/18/352a862dceb2fda3f271761ac2d267fe.jpg",
+    "stream": "https://alivealone302.litenews.cn/145/e59cec1353f945e5b07662db7e203d2b/playlist.m3u8?k=374f1605ed4e7ed39e69e35f6cb7db32&t=1758957848",
+    "id": 2,
+    "desc": "沂水电视台生活频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "沂水生活",
+      "image": "https://img11.iqilu.com/145/2022/10/18/352a862dceb2fda3f271761ac2d267fe.jpg",
+      "url": "https://iapp.yishuishoufa.com/share/dHZsLTE0NS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 147,
+    "name": "罗庄综合",
+    "icon": "https://img11.iqilu.com/147/2019/12/18/66453af311ed1ea8a1bdfabec4d40145.jpg",
+    "stream": "https://alivealone302.litenews.cn/147/1373a84fafee4225baf791cdb573d4f7/playlist.m3u8?k=79333e614a2bfe07d53e94aadade7464&t=1758957849",
+    "id": 1,
+    "desc": " ",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "罗庄综合",
+      "image": "https://img11.iqilu.com/147/2019/12/18/66453af311ed1ea8a1bdfabec4d40145.jpg",
+      "url": "https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 147,
+    "name": "罗庄影视",
+    "icon": "https://img11.iqilu.com/147/2022/01/21/de7869a1982a2054835b4591e1421721.png",
+    "stream": "https://alivealone302.litenews.cn/147/0dcdf6e4e72440e5b51bc15eaa887870/playlist.m3u8?k=ebb3e9eb8e1acce80706a0a1fb4d636e&t=1758957849",
+    "desc": " ",
+    "id": 17,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "罗庄影视",
+      "image": "https://img11.iqilu.com/147/2022/01/21/de7869a1982a2054835b4591e1421721.png",
+      "url": "https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0xNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 153,
+    "name": "综合频道",
+    "icon": "https://img11.iqilu.com/153/2020/09/18/9455b1d78c6beadd88fe4d41d94f943a.jpg",
+    "stream": "https://alivealone302.litenews.cn/153/572d54b4df51427a97c77d6b69c2421c/playlist.m3u8?k=1e1d86100505c3f7b21880597bef107b&t=1758957851",
+    "desc": "利津新闻频道",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "https://img11.iqilu.com/153/2020/09/18/9455b1d78c6beadd88fe4d41d94f943a.jpg",
+      "url": "https://iapp.lijinnews.com/share/dHZsLTE1My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 153,
+    "name": "文化生活频道",
+    "icon": "https://img11.iqilu.com/153/2020/09/18/ab9930d5ab27b4c9d4f1842595884885.jpg",
+    "stream": "https://alivealone302.litenews.cn/153/12f815bee68c4b53acbe7a3d7f680aa7/playlist.m3u8?k=bd402867224f4aa6b1470c32ecc1b490&t=1758957851",
+    "desc": "文化生活频道",
+    "id": 3,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "文化生活频道",
+      "image": "https://img11.iqilu.com/153/2020/09/18/ab9930d5ab27b4c9d4f1842595884885.jpg",
+      "url": "https://iapp.lijinnews.com/share/dHZsLTE1My0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 153,
+    "name": "利津广播电台",
+    "icon": "https://img11.iqilu.com/153/2020/10/27/4f8ba642f656de3e92596cc19fe91dd0.jpg",
+    "stream": "https://alivealone302.litenews.cn/153/b5b222b7b22749b685e2ea3be01e6499/playlist.m3u8?k=44cd66806306558f13a8dca7b37d6cd4&t=1758957851",
+    "desc": "利津广播电台",
+    "id": 10,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "利津广播电台",
+      "image": "https://img11.iqilu.com/153/2020/10/27/4f8ba642f656de3e92596cc19fe91dd0.jpg",
+      "url": "https://iapp.lijinnews.com/share/dHZsLTE1My0xMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 155,
+    "name": "经典剧场",
+    "icon": "https://img11.litenews.cn/155/2025/07/19/1db97407e6df41848140de9a6ab4466e.jpg",
+    "logo": "https://img11.litenews.cn/155/2025/07/19/6b6998e4cf6d4b51801ee7ae101934b1.jpg",
+    "stream": "https://elivealone302.litenews.cn/155/EszhqMZyRAJd52GB3tjJbqjdMpAKe5Qm/playlist.m3u8?k=c8711725823a17ee795097f5e6bd78cb&t=1758957852",
+    "desc": "经典好剧",
+    "id": 13,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经典剧场",
+      "image": "https://img11.litenews.cn/155/2025/07/19/1db97407e6df41848140de9a6ab4466e.jpg",
+      "url": "https://iapp.sdmlsz.com/share/dHZsLTE1NS0xMw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 155,
+    "name": "单县新闻综合频道",
+    "icon": "https://img11.iqilu.com/155/2019/12/30/c7a1f4297e54deeedec8f6eba6ee77b3.jpeg",
+    "stream": "https://alivealone302.litenews.cn/155/e92fdee8f99b4cadbd03c0cb770d1154/playlist.m3u8?k=6f8cb50fd1b478bc050c9611d87c176a&t=1758957852",
+    "id": 2,
+    "desc": "单县新闻综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "单县新闻综合频道",
+      "image": "https://img11.iqilu.com/155/2019/12/30/c7a1f4297e54deeedec8f6eba6ee77b3.jpeg",
+      "url": "https://iapp.sdmlsz.com/share/dHZsLTE1NS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 157,
+    "name": "电视新闻综合",
+    "icon": "https://img11.iqilu.com/157/2019/12/02/8142105cc5dee247146f502e5962db88.jpg",
+    "stream": "https://alivealone302.litenews.cn/157/b2989d1a72e74797a77f75a87d58ca59/playlist.m3u8?k=61b51b4d8c0c26f67f889dc7ab9a708a&t=1758957852",
+    "id": 1,
+    "desc": "电视新闻综合",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "电视新闻综合",
+      "image": "https://img11.iqilu.com/157/2019/12/02/8142105cc5dee247146f502e5962db88.jpg",
+      "url": "https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 157,
+    "name": "电视都市生活",
+    "icon": "https://img11.iqilu.com/157/2019/12/02/9510c7cc99c0e449a8266fc97557e018.jpg",
+    "stream": "https://alivealone302.litenews.cn/157/a6e06357bb294d418f8f60d7e5ccc8c6/playlist.m3u8?k=1a22d65cb168c58c0b0659dab5397862&t=1758957852",
+    "id": 3,
+    "desc": "电视都市生活",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "电视都市生活",
+      "image": "https://img11.iqilu.com/157/2019/12/02/9510c7cc99c0e449a8266fc97557e018.jpg",
+      "url": "https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 157,
+    "name": "电视海洋频道",
+    "icon": "https://img11.iqilu.com/157/2019/12/02/fdaf92dd2ad9838cf3b1784b99c2886f.jpg",
+    "stream": "https://alivealone302.litenews.cn/157/441e332a44ae46d880031391b36b3886/playlist.m3u8?k=a69d3d179bf004d7e41dd9235202d5c0&t=1758957852",
+    "id": 12,
+    "desc": "电视海洋频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "电视海洋频道",
+      "image": "https://img11.iqilu.com/157/2019/12/02/fdaf92dd2ad9838cf3b1784b99c2886f.jpg",
+      "url": "https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 159,
+    "name": "莒县综合",
+    "icon": "https://img11.iqilu.com/159/2021/12/08/1220317e6ab11c7d1ca8848ad4e44187.jpg",
+    "stream": "https://alivealone302.litenews.cn/159/0b1ee3da151a4d188a4e96ccda79b82f/playlist.m3u8?k=bb0ee1de675c1a526e07212b9ea272df&t=1758957853",
+    "desc": "莒县综合频道",
+    "id": 23,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莒县综合",
+      "image": "https://img11.iqilu.com/159/2021/12/08/1220317e6ab11c7d1ca8848ad4e44187.jpg",
+      "url": "https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 159,
+    "name": "莒县生活",
+    "icon": "https://img11.iqilu.com/159/2021/12/08/464ecab2bf54fe36e92471046607cda8.jpg",
+    "stream": "https://alivealone302.litenews.cn/159/6847a7cbdb044bb4bfc0b303cfca89b0/playlist.m3u8?k=ab97f07d3557a563cc46ad020c49bfcc&t=1758957853",
+    "desc": "莒县生活频道",
+    "id": 27,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莒县生活",
+      "image": "https://img11.iqilu.com/159/2021/12/08/464ecab2bf54fe36e92471046607cda8.jpg",
+      "url": "https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 159,
+    "name": "FM97-Live",
+    "icon": "https://img11.iqilu.com/159/2021/12/08/67bcbab2f163d20628174455a3da288a.jpg",
+    "stream": "https://alivealone302.litenews.cn/159/30bf9ad9b0a34c8b9349acb10afc6d76/playlist.m3u8?k=19603526a65c04ff099c501b3735a70d&t=1758957853",
+    "desc": "FM97-Live",
+    "id": 29,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "FM97-Live",
+      "image": "https://img11.iqilu.com/159/2021/12/08/67bcbab2f163d20628174455a3da288a.jpg",
+      "url": "https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yOQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 161,
+    "name": "蒙阴综合",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/161/7c3e0abc7a604487ab088e35edb7032b/playlist.m3u8?k=6fa26f5968890d8eff9b02a56ca8917e&t=1758957854",
+    "desc": "蒙阴电视台一套电视节目",
+    "id": 13,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "蒙阴综合",
+      "image": "",
+      "url": "https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xMw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 161,
+    "name": "蒙阴TV—2",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/161/c5db65a7d96948d2be14e470e4c829b2/playlist.m3u8?k=315cf11a01c56863e751992e767d2a3e&t=1758957854",
+    "desc": "蒙阴二套节目",
+    "id": 15,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "蒙阴TV—2",
+      "image": "",
+      "url": "https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xNQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 163,
+    "name": "新闻综合频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/163/5a9c961850234e4c9331aa447e03471c/playlist.m3u8?k=41aa9fbe9325d70dbd8eee3a3800559d&t=1758957855",
+    "desc": "新闻综合频道",
+    "id": 5,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "",
+      "url": "https://iapp.zhidongyingapp.com/share/dHZsLTE2My01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 163,
+    "name": "科教影视频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/163/cc1c7080f1be4e20aec6a437913f365b/playlist.m3u8?k=f06eb0be9fed70b0093817ddab88c4f6&t=1758957855",
+    "desc": "科教影视频道",
+    "id": 7,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "科教影视频道",
+      "image": "",
+      "url": "https://iapp.zhidongyingapp.com/share/dHZsLTE2My03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 165,
+    "name": "栖霞市综合频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/165/e08af6910a754af3a729f97b90d13d89/playlist.m3u8?k=48e90340ee1641cfd3cb97cea9b907e4&t=1758957855",
+    "id": 12,
+    "desc": "栖霞市综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "栖霞市综合频道",
+      "image": "",
+      "url": "https://iapp.aiqixiaapp.com/share/dHZsLTE2NS0xMg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 165,
+    "name": "栖霞市苹果频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/165/8d914d1f984a4b11af6e798f8456b501/playlist.m3u8?k=87e80a995d8cc5eaf5fd80e4ba50fe67&t=1758957855",
+    "desc": "栖霞市苹果频道",
+    "id": 14,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "栖霞市苹果频道",
+      "image": "",
+      "url": "https://iapp.aiqixiaapp.com/share/dHZsLTE2NS0xNA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 167,
+    "name": "临沭TV-1",
+    "icon": "https://img11.iqilu.com/167/2019/11/25/d4f3e007b40c092521f388a90e52ce89.jpg",
+    "stream": "https://alivealone302.litenews.cn/167/ccb6d0904c4545c796a46d0b8ab8f974/playlist.m3u8?k=580b0bc7fea922ba7ffae2c370622215&t=1758957856",
+    "id": 3,
+    "desc": "　",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "临沭TV-1",
+      "image": "https://img11.iqilu.com/167/2019/11/25/d4f3e007b40c092521f388a90e52ce89.jpg",
+      "url": "https://iapp.sdlsrm.com/share/dHZsLTE2Ny0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 167,
+    "name": "临沭TV-2",
+    "icon": "https://img11.iqilu.com/167/2019/11/25/b6232ac766c2ed3e8394336399789f60.jpg",
+    "stream": "https://alivealone302.litenews.cn/167/fb91283de3bb4a85adfa892ab1e81651/playlist.m3u8?k=68f35141e2eb0acba4cd1d89458c7d8b&t=1758957856",
+    "id": 4,
+    "desc": "　",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "临沭TV-2",
+      "image": "https://img11.iqilu.com/167/2019/11/25/b6232ac766c2ed3e8394336399789f60.jpg",
+      "url": "https://iapp.sdlsrm.com/share/dHZsLTE2Ny00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 167,
+    "name": "慢直播",
+    "icon": "https://img11.iqilu.com/167/2022/03/23/1d056f4aceb0f103ac98367da68a7b2a.jpg",
+    "stream": "https://alivealone302.litenews.cn/167/b14c2b8d921f42adb3d9f6a11e802549/playlist.m3u8?k=b0a937877d8f5bd9487550c71f9f8da4&t=1758957856",
+    "desc": "慢直播",
+    "id": 6,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "慢直播",
+      "image": "https://img11.iqilu.com/167/2022/03/23/1d056f4aceb0f103ac98367da68a7b2a.jpg",
+      "url": "https://iapp.sdlsrm.com/share/dHZsLTE2Ny02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 169,
+    "name": "无棣综合频道",
+    "icon": "https://img11.iqilu.com/169/2021/08/02/c39df294341be6ac9b65b96b4cada1e2.jpg",
+    "stream": "https://alivealone302.litenews.cn/169/8e3dc9f7edaa481eafcc58702359369f/playlist.m3u8?k=be9af2cda80c1d650d16570d03d005f7&t=1758957857",
+    "desc": "无棣综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "无棣综合频道",
+      "image": "https://img11.iqilu.com/169/2021/08/02/c39df294341be6ac9b65b96b4cada1e2.jpg",
+      "url": "https://iapp.wdxrmt.com/share/dHZsLTE2OS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 169,
+    "name": "无棣综艺频道",
+    "icon": "https://img11.iqilu.com/169/2021/08/02/da88715c4ac73b748a2738e2b64b22e8.jpg",
+    "stream": "https://alivealone302.litenews.cn/169/727eebb295c7432985d27449f0b5bafb/playlist.m3u8?k=15c089f26c0414715f52eec606f3d105&t=1758957857",
+    "desc": "无棣县融媒体中心综艺频道",
+    "id": 21,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "无棣综艺频道",
+      "image": "https://img11.iqilu.com/169/2021/08/02/da88715c4ac73b748a2738e2b64b22e8.jpg",
+      "url": "https://iapp.wdxrmt.com/share/dHZsLTE2OS0yMQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 169,
+    "name": "无棣广播直播回放",
+    "icon": " https://img11.iqilu.com/169/2021/07/26/9b885db513fed694f0ae257850fb316f.png",
+    "stream": "https://alivealone302.litenews.cn/169/7cce133cfc3b44fbbdb0ac812866e3bf/playlist.m3u8?k=a8f852c075f700db037695f20cfba646&t=1758957857",
+    "desc": "无棣县融媒体中心综合广播",
+    "id": 26,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "无棣广播直播回放",
+      "image": " https://img11.iqilu.com/169/2021/07/26/9b885db513fed694f0ae257850fb316f.png",
+      "url": "https://iapp.wdxrmt.com/share/dHZsLTE2OS0yNg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 171,
+    "name": "长清综合",
+    "icon": "https://img11.iqilu.com/171/2019/12/04/fd4b8088a20fee0fe02b46c31c91e87c.png",
+    "stream": "https://alivealone302.litenews.cn/171/16236930b5ef4329a8a1d47037ee56b6/playlist.m3u8?k=8ac7937744002c1533d3937bdb4af21b&t=1758957858",
+    "id": 2,
+    "desc": "长清综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "长清综合",
+      "image": "https://img11.iqilu.com/171/2019/12/04/fd4b8088a20fee0fe02b46c31c91e87c.png",
+      "url": "https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 171,
+    "name": "长清生活",
+    "icon": "",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/171/b6df53d1f77f4e068055b4eac603bdcb/playlist.m3u8?k=583e6b048582560e84b9fd79e74ad72f&t=1758957858",
+    "desc": "长清生活频道",
+    "id": 20,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "长清生活",
+      "image": "",
+      "url": "https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 173,
+    "name": "QTV-李沧",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b/playlist.m3u8?k=b1fad6a7c0002844ebec6679ea4073ca&t=1758957859",
+    "desc": "李沧电视台",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "QTV-李沧",
+      "image": "",
+      "url": "https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 175,
+    "name": "长岛电视台",
+    "icon": "https://img11.iqilu.com/175/2021/04/22/c2b48fd7e114905ce8ca97a56236ac5f.png",
+    "stream": "https://alivealone302.litenews.cn/175/4b31e523957c4edeaca32b7dc5693b01/playlist.m3u8?k=57e907bc785c5053060500c61571bbb9&t=1758957859",
+    "id": 1,
+    "desc": "长岛电视台综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "长岛电视台",
+      "image": "https://img11.iqilu.com/175/2021/04/22/c2b48fd7e114905ce8ca97a56236ac5f.png",
+      "url": "https://iapp.changdaohao.cn/share/dHZsLTE3NS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 177,
+    "name": "沂南综合频道",
+    "icon": "https://img11.iqilu.com/177/2020/01/01/5e3270a9bad58efbffd74af2b9142654.jpg",
+    "stream": "https://wslivealone302.iqilu.com/yinan/yinan_tv01/playlist.m3u8?k=9a541ef55d326122dc61f1a275e505e1&t=1758957860",
+    "id": 6,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "沂南综合频道",
+      "image": "https://img11.iqilu.com/177/2020/01/01/5e3270a9bad58efbffd74af2b9142654.jpg",
+      "url": "https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 177,
+    "name": "沂南红色影视",
+    "icon": "https://img11.iqilu.com/177/2020/01/01/f296fc2db31f96d712896b94876cfaae.jpg",
+    "stream": "https://wslivealone302.iqilu.com/yinan/yinan_tv02/playlist.m3u8?k=11976f6387a80bb21d3b9036d789608f&t=1758957860",
+    "id": 7,
+    "desc": "沂南红色影视",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "沂南红色影视",
+      "image": "https://img11.iqilu.com/177/2020/01/01/f296fc2db31f96d712896b94876cfaae.jpg",
+      "url": "https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "新闻综合频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/0d4aa29109194c9d8da23cc044614538/playlist.m3u8?k=6febbe760f0e086d1cefa54b9c663b6a&t=1758957861",
+    "id": 1,
+    "desc": "新闻综合频道",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "经济生活频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=2be06723f96f2c32b72f9b2674540da6&t=1758957861",
+    "id": 2,
+    "desc": "经济生活频道",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经济生活频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "图文频道",
+    "icon": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=2be06723f96f2c32b72f9b2674540da6&t=1758957861",
+    "desc": "图文频道",
+    "id": 9,
+    "logo": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "图文频道",
+      "image": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS05.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "夏津综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/03/19/525d09a2f73d416d80ab0066a4b8afd0.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/03/19/525d09a2f73d416d80ab0066a4b8afd0.jpg",
+    "stream": "https://alivealone302.litenews.cn/223/3063a8992d0845ffa3f793d334a388a5/playlist.m3u8?k=2d4c571edd4154abeb5cf7ffd5998ec2&t=1758957861",
+    "desc": "夏津县融媒体中心-电视综合频道",
+    "id": 21,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "夏津综合频道",
+      "image": "https://img11.litenews.cn/179/2024/03/19/525d09a2f73d416d80ab0066a4b8afd0.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS0yMQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "夏津公共频道",
+    "icon": "https://img11.litenews.cn/179/2024/03/19/525d09a2f73d416d80ab0066a4b8afd0.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/03/19/525d09a2f73d416d80ab0066a4b8afd0.jpg",
+    "stream": "https://alivealone302.litenews.cn/223/25245a8cce65456d8a6f7cc888a71a0f/playlist.m3u8?k=b906c9bd4bd3c34c39995c0630cee2e7&t=1758957861",
+    "desc": "夏津县融媒体中心-电视公共频道",
+    "id": 23,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "夏津公共频道",
+      "image": "https://img11.litenews.cn/179/2024/03/19/525d09a2f73d416d80ab0066a4b8afd0.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS0yMw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "齐河综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/03/19/2e03fc2617472fe2ab9eb82c33802808.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/03/19/2e03fc2617472fe2ab9eb82c33802808.jpg",
+    "stream": "https://alivealone302.litenews.cn/251/f150ae40de6c47fe9ec259da1baad181/playlist.m3u8?k=ca99a246728331c5678ea09683c7d38e&t=1758957861",
+    "desc": "齐河县融媒体中心",
+    "id": 27,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "齐河综合频道",
+      "image": "https://img11.litenews.cn/179/2024/03/19/2e03fc2617472fe2ab9eb82c33802808.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS0yNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "平原综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/03/19/87da928ab62aca14fc2be26413537461.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/03/19/87da928ab62aca14fc2be26413537461.jpg",
+    "stream": "https://alivealone302.litenews.cn/19/8d0a43a5e3504544bbdb2b958f5ccf1e/playlist.m3u8?k=391a41dd149da93f553d8a21777ef78a&t=1758957861",
+    "desc": "平原综合频道",
+    "id": 32,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "平原综合频道",
+      "image": "https://img11.litenews.cn/179/2024/03/19/87da928ab62aca14fc2be26413537461.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS0zMg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "陵城区综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/03/25/4345b329c6db8b7e2a025b08e9f2dcd8.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/03/25/4345b329c6db8b7e2a025b08e9f2dcd8.jpg",
+    "stream": "https://alivealone302.litenews.cn/215/88777643f93a427aaf6521d27de78123/playlist.m3u8?k=23c4b71c6d7c76884ce89d115bb25493&t=1758957861",
+    "desc": "陵城区",
+    "id": 36,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "陵城区综合频道",
+      "image": "https://img11.litenews.cn/179/2024/03/25/4345b329c6db8b7e2a025b08e9f2dcd8.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS0zNg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "禹城综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/07/7df4e4980a99fbd1099939a82bd4366e.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/04/07/7df4e4980a99fbd1099939a82bd4366e.jpg",
+    "stream": "https://alivealone302.litenews.cn/235/80e197e53ad04d7cb3dea327d78a5487/playlist.m3u8?k=3bda1e575404ce113c896fae9eda9893&t=1758957861",
+    "desc": "禹城综合频道",
+    "id": 48,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "禹城综合频道",
+      "image": "https://img11.litenews.cn/179/2024/04/07/7df4e4980a99fbd1099939a82bd4366e.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS00OA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "禹城综艺频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/07/7df4e4980a99fbd1099939a82bd4366e.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/04/07/7df4e4980a99fbd1099939a82bd4366e.jpg",
+    "stream": "https://alivealone302.litenews.cn/235/4ca013b7e46849dc95b2dbdf5a9379c5/playlist.m3u8?k=6cd8fa2d3b6925a34bf720aa3fc757ad&t=1758957861",
+    "desc": "禹城综艺频道",
+    "id": 50,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "禹城综艺频道",
+      "image": "https://img11.litenews.cn/179/2024/04/07/7df4e4980a99fbd1099939a82bd4366e.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS01MA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "临邑综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/07/ec9bf6068b7aa69f987cf7208d66f435.png",
+    "logo": "https://img11.litenews.cn/179/2024/04/07/ec9bf6068b7aa69f987cf7208d66f435.png",
+    "stream": "https://blivealone302.litenews.cn/b49/16703e49ff6743fbb91e120e9a03da0b/index.m3u8?t=1758961461&k=1eb49da9ad6a92306e55abd0b36f313b",
+    "desc": "临邑综合频道",
+    "id": 52,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "临邑综合频道",
+      "image": "https://img11.litenews.cn/179/2024/04/07/ec9bf6068b7aa69f987cf7208d66f435.png",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS01Mg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "武城综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/07/13dcd0d680da2d11cf8bd32df1f4a4f9.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/04/07/13dcd0d680da2d11cf8bd32df1f4a4f9.jpg",
+    "stream": "https://alivealone302.litenews.cn/33/a062f1f6a92443149bfd4449a9230a27/playlist.m3u8?k=09bbf0ee97857cdc75e3247a677b566c&t=1758957861",
+    "desc": "武城综合频道",
+    "id": 54,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "武城综合频道",
+      "image": "https://img11.litenews.cn/179/2024/04/07/13dcd0d680da2d11cf8bd32df1f4a4f9.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS01NA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "武城综艺影视",
+    "icon": "https://img11.litenews.cn/179/2024/04/07/13dcd0d680da2d11cf8bd32df1f4a4f9.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/04/07/13dcd0d680da2d11cf8bd32df1f4a4f9.jpg",
+    "stream": "https://alivealone302.litenews.cn/33/af3e15a0a9b449358c7f2252a2827de5/playlist.m3u8?k=ea4d14a4dd18a5fe0fe8c0c5e3d80852&t=1758957861",
+    "desc": "武城综艺影视",
+    "id": 58,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "武城综艺影视",
+      "image": "https://img11.litenews.cn/179/2024/04/07/13dcd0d680da2d11cf8bd32df1f4a4f9.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS01OA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "宁津综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/07/b33fc8d3f2f53998eee81815525a29c2.png",
+    "logo": "https://img11.litenews.cn/179/2024/04/07/b33fc8d3f2f53998eee81815525a29c2.png",
+    "stream": "https://alivealone302.litenews.cn/193/694590f2f93a4a76b71592239714f419/playlist.m3u8?k=eed16d7b03cf5adaf0b52dc528917c5c&t=1758957861",
+    "desc": "宁津综合频道",
+    "id": 63,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "宁津综合频道",
+      "image": "https://img11.litenews.cn/179/2024/04/07/b33fc8d3f2f53998eee81815525a29c2.png",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS02Mw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "庆云综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/08/ba23c9c646be059f8c66a1e90dbeb841.png",
+    "logo": "https://img11.litenews.cn/179/2024/04/08/ba23c9c646be059f8c66a1e90dbeb841.png",
+    "stream": "https://alivealone302.litenews.cn/5/f7b32719405e4a159480d467efff478d/playlist.m3u8?k=f986db49c61e2d435d99a4d35715f367&t=1758957861",
+    "desc": "庆云综合频道",
+    "id": 65,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "庆云综合频道",
+      "image": "https://img11.litenews.cn/179/2024/04/08/ba23c9c646be059f8c66a1e90dbeb841.png",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS02NQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "庆云生活频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/08/ba23c9c646be059f8c66a1e90dbeb841.png",
+    "logo": "https://img11.litenews.cn/179/2024/04/08/ba23c9c646be059f8c66a1e90dbeb841.png",
+    "stream": "https://alivealone302.litenews.cn/5/d50cf46c986949a58dafa52d15ddd171/playlist.m3u8?k=2bc3c1f956f0120bb46d9fa2183f1a8c&t=1758957861",
+    "desc": "庆云生活频道",
+    "id": 67,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "庆云生活频道",
+      "image": "https://img11.litenews.cn/179/2024/04/08/ba23c9c646be059f8c66a1e90dbeb841.png",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS02Nw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "乐陵综合频道",
+    "icon": "https://img11.litenews.cn/179/2024/04/08/3adadfb40e8bb5443244e66357543405.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/04/08/3adadfb40e8bb5443244e66357543405.jpg",
+    "stream": "https://alivealone302.litenews.cn/267/d7d6e3a17d33406396e13b610c3fb0ce/playlist.m3u8?k=71ae32551d3dfe35a10184bf0efaea48&t=1758957861",
+    "desc": "乐陵综合频道",
+    "id": 69,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "乐陵综合频道",
+      "image": "https://img11.litenews.cn/179/2024/04/08/3adadfb40e8bb5443244e66357543405.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS02OQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 179,
+    "name": "乐陵城市生活",
+    "icon": "https://img11.litenews.cn/179/2024/04/08/3adadfb40e8bb5443244e66357543405.jpg",
+    "logo": "https://img11.litenews.cn/179/2024/04/08/3adadfb40e8bb5443244e66357543405.jpg",
+    "stream": "https://alivealone302.litenews.cn/267/e578295190e1495eb70d9ef855176eaa/playlist.m3u8?k=ec44354e242a9424dbcaf66fb2aa07ea&t=1758957861",
+    "desc": "乐陵城市生活频道",
+    "id": 71,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "乐陵城市生活",
+      "image": "https://img11.litenews.cn/179/2024/04/08/3adadfb40e8bb5443244e66357543405.jpg",
+      "url": "https://iapp.dztv.tv/share/dHZsLTE3OS03MQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 181,
+    "name": "邹城综合频道",
+    "icon": "https://elivealone302.litenews.cn/181/BpNavSc84bahjgR5rAN6d6FCKGh7sKJN/playlist.m3u8",
+    "stream": "https://blivealone302.litenews.cn/b181/91db69c983c54a3b8271b434776cd554/index.m3u8?t=1758961462&k=9c57c17abc53f34107e091901d7f0d0d",
+    "desc": "邹城新闻综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "邹城综合频道",
+      "image": "https://elivealone302.litenews.cn/181/BpNavSc84bahjgR5rAN6d6FCKGh7sKJN/playlist.m3u8",
+      "url": "https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 181,
+    "name": "邹城文化生活频道",
+    "icon": "https://img11.iqilu.com/181/2020/04/08/7fddab13949d229dd7da516a5ef0e53a.jpg",
+    "stream": "https://blivealone302.litenews.cn/b181/220c388ba363468aaf5cb8803708c627/index.m3u8?t=1758961462&k=ca8b62b3796e9fc86a9780114c5683de",
+    "desc": "邹城文化生活频道",
+    "id": 4,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "邹城文化生活频道",
+      "image": "https://img11.iqilu.com/181/2020/04/08/7fddab13949d229dd7da516a5ef0e53a.jpg",
+      "url": "https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 183,
+    "name": "莘县综合",
+    "icon": "https://img11.iqilu.com/183/2022/12/07/558d8dd73d3917138e19f1b0557fbcbb.jpg",
+    "stream": "https://alivealone302.litenews.cn/183/53554bd5b3d6423285bdfcf509bb5eff/playlist.m3u8?k=f003b621fe023f06cf3b22d16378d4ff&t=1758957862",
+    "desc": "莘县综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莘县综合",
+      "image": "https://img11.iqilu.com/183/2022/12/07/558d8dd73d3917138e19f1b0557fbcbb.jpg",
+      "url": "https://iapp.sdsxrm.cn/share/dHZsLTE4My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 183,
+    "name": "莘县二台",
+    "icon": "https://img11.iqilu.com/183/2022/12/07/5496a4bc425ed0f6a01e89ba34299657.png",
+    "stream": "https://alivealone302.litenews.cn/183/d8653d41fa1c4d7fb8a70a00e266f778/playlist.m3u8?k=fa635025131a5162d17cf56e19baa14a&t=1758957862",
+    "desc": "莘县二台",
+    "id": 5,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莘县二台",
+      "image": "https://img11.iqilu.com/183/2022/12/07/5496a4bc425ed0f6a01e89ba34299657.png",
+      "url": "https://iapp.sdsxrm.cn/share/dHZsLTE4My01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 187,
+    "name": "东平综合",
+    "icon": "https://img11.iqilu.com/187/2022/10/04/1dd7542be5181cb3b7dcbc9298005740.jpg",
+    "stream": "https://alivealone302.litenews.cn/187/8fccf62feb3c44c0aafbd751e656157b/playlist.m3u8?k=365c862d97ecfcd2f65b1258475d82ac&t=1758957864",
+    "desc": "东平综合",
+    "id": 9,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "东平综合",
+      "image": "https://img11.iqilu.com/187/2022/10/04/1dd7542be5181cb3b7dcbc9298005740.jpg",
+      "url": "https://iapp.dpsjt.cn/share/dHZsLTE4Ny05.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 187,
+    "name": "东平民生",
+    "icon": "https://img11.iqilu.com/187/2021/01/20/51351221cff29862755d6e84897c11d0.jpg",
+    "stream": "https://alivealone302.litenews.cn/187/79c9250a48db4b77bf0e58cf9a06c06c/playlist.m3u8?k=9ffad42340280eab62372f0ad92dc9b3&t=1758957864",
+    "desc": "东平民生",
+    "id": 11,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "东平民生",
+      "image": "https://img11.iqilu.com/187/2021/01/20/51351221cff29862755d6e84897c11d0.jpg",
+      "url": "https://iapp.dpsjt.cn/share/dHZsLTE4Ny0xMQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 189,
+    "name": "福山综合频道",
+    "icon": "https://img11.iqilu.com/189/2020/05/22/14bbb5e1f3c097119bb31e4b42ba035a.jpg",
+    "stream": "https://alivealone302.litenews.cn/189/c479c6c0686d468e9f1498b886153b58/playlist.m3u8?k=0dccbfc7acaa3d7a3301187a4d3e6d47&t=1758957865",
+    "id": 4,
+    "desc": "综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "福山综合频道",
+      "image": "https://img11.iqilu.com/189/2020/05/22/14bbb5e1f3c097119bb31e4b42ba035a.jpg",
+      "url": "https://iapp.fuzaifushan.cn/share/dHZsLTE4OS00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 189,
+    "name": "福山生活频道",
+    "icon": "https://img11.iqilu.com/189/2020/05/22/c484fc67fc8210e2e23416b32c901b5e.jpg",
+    "stream": "https://alivealone302.litenews.cn/189/0bd071e873a64877af1228ef5cefb9ce/playlist.m3u8?k=250591af77fca421b4b737f4c5c2803d&t=1758957865",
+    "id": 5,
+    "desc": "生活频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "福山生活频道",
+      "image": "https://img11.iqilu.com/189/2020/05/22/c484fc67fc8210e2e23416b32c901b5e.jpg",
+      "url": "https://iapp.fuzaifushan.cn/share/dHZsLTE4OS01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 191,
+    "name": "河东综合频道",
+    "icon": "https://img11.iqilu.com/191/2020/05/18/93e05cf96912049bc9ac5f9cd801e37f.png",
+    "stream": "https://alivealone302.litenews.cn/191/21838cacf6bb48efbc3bee9c7ca5ecd5/playlist.m3u8?k=697cbdeff72d005ecd1b1438f7c7f051&t=1758957865",
+    "id": 1,
+    "desc": "河东综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "河东综合频道",
+      "image": "https://img11.iqilu.com/191/2020/05/18/93e05cf96912049bc9ac5f9cd801e37f.png",
+      "url": "https://iapp.lyhedong.com/share/dHZsLTE5MS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 191,
+    "name": "河东影视频道",
+    "icon": "https://img11.iqilu.com/191/2020/05/18/93e05cf96912049bc9ac5f9cd801e37f.png",
+    "stream": "https://alivealone302.litenews.cn/191/c15fdbc5161e45808c55c45eba8fda1d/playlist.m3u8?k=200d46d773c7447631c32a92bbd38a43&t=1758957865",
+    "id": 2,
+    "desc": "河东影视频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "河东影视频道",
+      "image": "https://img11.iqilu.com/191/2020/05/18/93e05cf96912049bc9ac5f9cd801e37f.png",
+      "url": "https://iapp.lyhedong.com/share/dHZsLTE5MS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 193,
+    "name": "宁津融媒体中心综合频道",
+    "icon": "https://img11.iqilu.com/193/2020/05/07/d48e62ef6bd3a8c00a3bb162e03f5710.jpg",
+    "stream": "https://alivealone302.litenews.cn/193/694590f2f93a4a76b71592239714f419/playlist.m3u8?k=3f3cf9001f8cc30dc7a8bbc2897a8133&t=1758957866",
+    "desc": "宁津融媒体中心综合频道",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "宁津融媒体中心综合频道",
+      "image": "https://img11.iqilu.com/193/2020/05/07/d48e62ef6bd3a8c00a3bb162e03f5710.jpg",
+      "url": "https://iapp.njxrmtzx.cn/share/dHZsLTE5My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 193,
+    "name": "宁津县融媒体中心综合广播视频直播",
+    "icon": "https://img11.iqilu.com/193/2020/05/07/499713fd013bab483da8311714f4f726.jpg",
+    "stream": "https://alivealone302.litenews.cn/193/88e5ad99735f496bbede441e461f345e/playlist.m3u8?k=ff5e45d7b396e4c1aa79b62105655366&t=1758957866",
+    "desc": "宁津县融媒体中心综合广播视频直播",
+    "id": 4,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "宁津县融媒体中心综合广播视频直播",
+      "image": "https://img11.iqilu.com/193/2020/05/07/499713fd013bab483da8311714f4f726.jpg",
+      "url": "https://iapp.njxrmtzx.cn/share/dHZsLTE5My00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 195,
+    "name": "章丘综合",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/195/d69e5146a9154e3fb6e8228b0dd4da4d/playlist.m3u8?k=3c666c97d86d362c93b28dfef567a698&t=1758957867",
+    "id": 1,
+    "desc": "章丘综合",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "章丘综合",
+      "image": "",
+      "url": "https://iapp.jnzqnews.cn/share/dHZsLTE5NS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 195,
+    "name": "章丘TV-2",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/195/1734a6535af5487a842d1bfeb8efcb0c/playlist.m3u8?k=ff3a6790f74bce772fe27181c55a5ac7&t=1758957867",
+    "id": 2,
+    "desc": "章丘TV-2",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "章丘TV-2",
+      "image": "",
+      "url": "https://iapp.jnzqnews.cn/share/dHZsLTE5NS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 199,
+    "name": "滨海新闻综合频道",
+    "icon": "https://img11.iqilu.com/199/2020/04/28/1c96cd9c400393fb54b82e21c6f8676d.jpg",
+    "stream": "https://alivealone302.litenews.cn/199/2b6baa4341994967b339d10da4a71f15/playlist.m3u8?k=f01d02082d56c7f4adf72f45d971e536&t=1758957868",
+    "desc": "滨海新闻综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "滨海新闻综合频道",
+      "image": "https://img11.iqilu.com/199/2020/04/28/1c96cd9c400393fb54b82e21c6f8676d.jpg",
+      "url": "https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 201,
+    "name": "兰山电视",
+    "icon": "https://img11.iqilu.com/201/2020/07/21/1a71813c745b988a54a087562aad5f3a.png",
+    "stream": "https://alivealone302.litenews.cn/201/161a22e99718418da23caa7fa3edb4dd/playlist.m3u8?k=2664442ea6e366bfa7923c69d77c4589&t=1758957869",
+    "desc": "兰山电视",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "兰山电视",
+      "image": "https://img11.iqilu.com/201/2020/07/21/1a71813c745b988a54a087562aad5f3a.png",
+      "url": "https://iapp.lylsrm.cn/share/dHZsLTIwMS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 203,
+    "name": "沂源综合频道",
+    "icon": "https://img11.iqilu.com/203/2020/07/11/ba94fb07621913c2b59bdb6273325e3e.png",
+    "stream": "https://alivealone302.litenews.cn/203/5a80a9bca88d4ee5bc1bb6bfa57cbbc6/playlist.m3u8?k=d10341993e7318de69064ba36e35f1b9&t=1758957870",
+    "id": 6,
+    "desc": "沂源县融媒体中心综合频道是县委和县政府的重要喉舌和首选主流媒体，追踪沂源热点，报道国计民生动态，紧紧围绕县委、县政府的中心工作，以政府重视、百姓关注、普遍存在为新闻主体，把镜头更多地对准基层，最大限度地体现沂源新闻的权威性、真实性、实效性、贴近性。",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "沂源综合频道",
+      "image": "https://img11.iqilu.com/203/2020/07/11/ba94fb07621913c2b59bdb6273325e3e.png",
+      "url": "https://iapp.yyrmapp.com/share/dHZsLTIwMy02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 203,
+    "name": "沂源生活频道",
+    "icon": "https://img11.iqilu.com/203/2020/07/11/c64adee3422bdfbc90167112d5502782.png",
+    "stream": "https://alivealone302.litenews.cn/203/77ab4119a24e48a2acfda17dec60f76c/playlist.m3u8?k=80d27ee12e15a433185514e3c10148cc&t=1758957870",
+    "id": 7,
+    "desc": "生活频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "沂源生活频道",
+      "image": "https://img11.iqilu.com/203/2020/07/11/c64adee3422bdfbc90167112d5502782.png",
+      "url": "https://iapp.yyrmapp.com/share/dHZsLTIwMy03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 205,
+    "name": "临朐新闻",
+    "icon": "https://img11.iqilu.com/205/2022/10/16/c707f013c7f42984f4bc76b98f42f570.png",
+    "stream": "https://alivealone302.litenews.cn/205/c1d58ffb763e4ac8968f9f4841891a11/playlist.m3u8?k=88f6c9b87e4168d1a461ce1e03727032&t=1758957871",
+    "desc": "临朐新闻",
+    "id": 39,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "临朐新闻",
+      "image": "https://img11.iqilu.com/205/2022/10/16/c707f013c7f42984f4bc76b98f42f570.png",
+      "url": "https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 207,
+    "name": "综合频道",
+    "icon": "https://img11.iqilu.com/207/2022/05/29/f78263b27214674cecaaf9a09ce6720b.png",
+    "stream": "https://alivealone302.litenews.cn/207/cd45fc09701644f783cbaf7e587d0fdc/playlist.m3u8?k=c63f3b7a4aa4856ce1ca4543449b4ddb&t=1758957871",
+    "id": 3,
+    "desc": "您现在收看的是博兴电视台综合频道 博兴县融媒体中心客服小智为您服务 微信：zhihuiboxing2023",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "https://img11.iqilu.com/207/2022/05/29/f78263b27214674cecaaf9a09ce6720b.png",
+      "url": "https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 207,
+    "name": "生活频道",
+    "icon": "https://img11.iqilu.com/207/2021/01/16/1e6d79d9549ba147584a1699aba752b5.jpg",
+    "stream": "https://alivealone302.litenews.cn/207/a06b934b9b7c4eb5998ec5cff736c78d/playlist.m3u8?k=00a47cceb77d43bf5a40f9dba377653b&t=1758957871",
+    "id": 4,
+    "desc": "您现在收看的是博兴电视台生活频道 博兴县融媒体中心客服小智为您服务 微信：zhihuiboxing2023",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "https://img11.iqilu.com/207/2021/01/16/1e6d79d9549ba147584a1699aba752b5.jpg",
+      "url": "https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 209,
+    "name": "峄城综合",
+    "icon": "https://img11.iqilu.com/209/2020/11/02/b960796a49126b27b1caa3abfcea243c.jpg",
+    "stream": "https://alivealone302.litenews.cn/209/da1cbd21728444569fd638642e034edf/playlist.m3u8?k=f5daf9ad24582a381648e5005fa8a40d&t=1758957872",
+    "id": 1,
+    "desc": "峄城综合",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "峄城综合",
+      "image": "https://img11.iqilu.com/209/2020/11/02/b960796a49126b27b1caa3abfcea243c.jpg",
+      "url": "https://iapp.yilan-app.com/share/dHZsLTIwOS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 211,
+    "name": "惠民综合频道",
+    "icon": "https://img11.iqilu.com/211/2020/01/10/a2a8b8055ab19876495f99153350c3e8.jpg",
+    "stream": "https://alivealone302.litenews.cn/211/22b6a70cae46443b857d5ff1a12f9dce/playlist.m3u8?k=64a9a568a97a702bf5b6e9543b94ba1d&t=1758957873",
+    "id": 2,
+    "desc": "惠民综合频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "惠民综合频道",
+      "image": "https://img11.iqilu.com/211/2020/01/10/a2a8b8055ab19876495f99153350c3e8.jpg",
+      "url": "https://iapp.aihuimin.cn/share/dHZsLTIxMS0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 211,
+    "name": "惠民公共文化频道",
+    "icon": "https://img11.iqilu.com/211/2020/01/10/4668b6ad7cb7e5fa91e65436231e540b.jpg",
+    "stream": "https://alivealone302.litenews.cn/211/8f6e0b8b2ec74a1796a7d28770a3c944/playlist.m3u8?k=24d61f78e6b78b1f36bc6fdb67c79b6f&t=1758957873",
+    "id": 3,
+    "desc": "惠民公共文化频道",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "惠民公共文化频道",
+      "image": "https://img11.iqilu.com/211/2020/01/10/4668b6ad7cb7e5fa91e65436231e540b.jpg",
+      "url": "https://iapp.aihuimin.cn/share/dHZsLTIxMS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 215,
+    "name": "综合频道",
+    "icon": "https://img11.iqilu.com/215/2020/03/10/0ef7e1059e45042c075bd7b0fd50c4d4.jpg",
+    "stream": "https://alivealone302.litenews.cn/215/88777643f93a427aaf6521d27de78123/playlist.m3u8?k=008dfa37bb91aef71a647154e95b791b&t=1758957874",
+    "id": 6,
+    "desc": "综合频道",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "https://img11.iqilu.com/215/2020/03/10/0ef7e1059e45042c075bd7b0fd50c4d4.jpg",
+      "url": "https://iapp.lcrongmei.cn/share/dHZsLTIxNS02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 217,
+    "name": "阳信新闻",
+    "icon": "https://img11.iqilu.com/217/2021/12/03/76a0a9a52870f813980b84449f65cc0c.png",
+    "stream": "https://alivealone302.litenews.cn/217/0fd0b63328dd44bfaeb8cbeda0f4f9ed/playlist.m3u8?k=aab54739a16066e1720ce90e3c07059a&t=1758957875",
+    "desc": "阳信新闻",
+    "id": 1,
+    "logo": "https://img11.iqilu.com/217/2021/12/03/76a0a9a52870f813980b84449f65cc0c.png",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "阳信新闻",
+      "image": "https://img11.iqilu.com/217/2021/12/03/76a0a9a52870f813980b84449f65cc0c.png",
+      "url": "https://iapp.yangxinrongmei.cn/share/dHZsLTIxNy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 217,
+    "name": "会场直播",
+    "icon": "https://img11.litenews.cn/217/2023/10/26/a52c8e969ed1a83ce796fa3021fb2baa.jpg",
+    "stream": "https://alivealone302.litenews.cn/217/b1a9bc8b6fc64206a55b6ff095f9201c/playlist.m3u8?k=5b3c2ff45f32bd50329470c7d99f0c9c&t=1758957875",
+    "desc": "临时直播",
+    "id": 10,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "会场直播",
+      "image": "https://img11.litenews.cn/217/2023/10/26/a52c8e969ed1a83ce796fa3021fb2baa.jpg",
+      "url": "https://iapp.yangxinrongmei.cn/share/dHZsLTIxNy0xMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 219,
+    "name": "牡丹电视台—新闻综合",
+    "icon": "https://img11.iqilu.com/219/2020/06/22/a5a45f80e34beb493b2c35d181bb4946.png",
+    "stream": "https://alivealone302.litenews.cn/219/896cf05fadb5486e94f5f323cf03abd2/playlist.m3u8?k=a1c1a6e9c570ccf3adc073a6b2412efa&t=1758957876",
+    "desc": "牡丹电视台—新闻综合",
+    "id": 6,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "牡丹电视台—新闻综合",
+      "image": "https://img11.iqilu.com/219/2020/06/22/a5a45f80e34beb493b2c35d181bb4946.png",
+      "url": "https://iapp.hzmdrm.cn/share/dHZsLTIxOS02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 219,
+    "name": "牡丹电视台—综艺",
+    "icon": "https://img11.iqilu.com/219/2020/09/21/152fd555a2b120e076bc508246891ddd.jpg",
+    "stream": "https://alivealone302.litenews.cn/219/3c14e65e3308425395661cca82a4abba/playlist.m3u8?k=06ca2286a2ac0d57a32a398cacaaa815&t=1758957876",
+    "desc": "牡丹电视台—综艺",
+    "id": 17,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "牡丹电视台—综艺",
+      "image": "https://img11.iqilu.com/219/2020/09/21/152fd555a2b120e076bc508246891ddd.jpg",
+      "url": "https://iapp.hzmdrm.cn/share/dHZsLTIxOS0xNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 223,
+    "name": "夏津电视台综合频道",
+    "icon": "https://img11.iqilu.com/223/2020/03/04/a37f8cc297e44b58d76b984d2f60d0b2.jpg",
+    "stream": "https://alivealone302.litenews.cn/223/3063a8992d0845ffa3f793d334a388a5/playlist.m3u8?k=9bd27f7cece6ce5e459918fa55ecf163&t=1758957877",
+    "id": 1,
+    "desc": " ",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "夏津电视台综合频道",
+      "image": "https://img11.iqilu.com/223/2020/03/04/a37f8cc297e44b58d76b984d2f60d0b2.jpg",
+      "url": "https://iapp.xjrm.com/share/dHZsLTIyMy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 223,
+    "name": "夏津电视台公共频道",
+    "icon": "https://img11.iqilu.com/223/2020/03/04/84a8fd5139ce955aede3da26931adb2c.jpg",
+    "stream": "https://alivealone302.litenews.cn/223/25245a8cce65456d8a6f7cc888a71a0f/playlist.m3u8?k=8b6f6e19a44891ba2f52a6c66b622705&t=1758957877",
+    "id": 2,
+    "desc": " ",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "夏津电视台公共频道",
+      "image": "https://img11.iqilu.com/223/2020/03/04/84a8fd5139ce955aede3da26931adb2c.jpg",
+      "url": "https://iapp.xjrm.com/share/dHZsLTIyMy0y.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 225,
+    "name": "山东卫视",
+    "icon": "https://img11.iqilu.com/225/2020/03/15/ba8984b49547d66568524b8671c69bb2.jpeg",
+    "stream": "https://jsylivealone302.iqilu.com/live/xiajin_tv02/index.m3u8?t=1758961478&k=c80a492ed842bc06f655a668c8870cb2",
+    "desc": "",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "山东卫视",
+      "image": "https://img11.iqilu.com/225/2020/03/15/ba8984b49547d66568524b8671c69bb2.jpeg",
+      "url": "https://app.litenews.cn/share/dHZsLTIyNS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 225,
+    "name": "少儿频道",
+    "icon": "https://img11.iqilu.com/225/2020/03/15/2699d829cda5f13d8846d48cc349ae08.jpeg",
+    "stream": "http://newlive.iqilu.com:1935/tiyu/typd/playlist.m3u8",
+    "desc": "",
+    "id": 3,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "少儿频道",
+      "image": "https://img11.iqilu.com/225/2020/03/15/2699d829cda5f13d8846d48cc349ae08.jpeg",
+      "url": "https://app.litenews.cn/share/dHZsLTIyNS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 231,
+    "name": "兖州综合频道",
+    "icon": "https://img11.iqilu.com/231/2020/04/09/4bdc5406a4ba168922e0c57dc45816fb.jpg",
+    "stream": "https://alivealone302.litenews.cn/231/daf70581bbf64c25905608d722adfa05/playlist.m3u8?k=fbc3782200408a1812f0ffe0372ab29d&t=1758957880",
+    "desc": "兖州新闻频道",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "兖州综合频道",
+      "image": "https://img11.iqilu.com/231/2020/04/09/4bdc5406a4ba168922e0c57dc45816fb.jpg",
+      "url": "https://iapp.yzrmt.cn/share/dHZsLTIzMS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 231,
+    "name": "兖州生活频道",
+    "icon": "https://img11.iqilu.com/231/2020/04/09/f177ef6e6b618fd085840b185a7fb125.jpg",
+    "stream": "https://alivealone302.litenews.cn/231/be2ffd456c144128b5981d210641438c/playlist.m3u8?k=f078f1384ddea9a543e9599682d94237&t=1758957880",
+    "desc": "兖州生活频道",
+    "id": 3,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "兖州生活频道",
+      "image": "https://img11.iqilu.com/231/2020/04/09/f177ef6e6b618fd085840b185a7fb125.jpg",
+      "url": "https://iapp.yzrmt.cn/share/dHZsLTIzMS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 237,
+    "name": "新闻综合",
+    "icon": "https://img11.iqilu.com/237/2020/05/14/ca1aa64d991317572d915590b6ee60c0.png",
+    "stream": "https://alivealone302.litenews.cn/237/a3eb3268ebaf4240ba40118803e66e81/playlist.m3u8?k=46a8523436276d9d36e2fad7ae179867&t=1758957883",
+    "desc": "新闻",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "https://img11.iqilu.com/237/2020/05/14/ca1aa64d991317572d915590b6ee60c0.png",
+      "url": "https://iapp.grxrmtzx.com/share/dHZsLTIzNy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 237,
+    "name": "科教文艺",
+    "icon": "https://img11.iqilu.com/237/2020/05/14/c5a150ff636020e45e4fe7ecf9ae106e.png",
+    "stream": "https://alivealone302.litenews.cn/237/ea11c14c83c943b482011c484a60f2db/playlist.m3u8?k=37fe75e229034be3a0f97c23784f0ff9&t=1758957883",
+    "desc": "科教文艺",
+    "id": 5,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "科教文艺",
+      "image": "https://img11.iqilu.com/237/2020/05/14/c5a150ff636020e45e4fe7ecf9ae106e.png",
+      "url": "https://iapp.grxrmtzx.com/share/dHZsLTIzNy01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 241,
+    "name": "新闻综合",
+    "icon": "https://img11.iqilu.com/241/2020/06/16/e5944e5e1a026c9f44e8602db7981268.png",
+    "stream": "https://alivealone302.litenews.cn/241/697e17a5340449aca500749100d3f458/playlist.m3u8?k=fd28d0a4f9447e05501a62c1cb774d91&t=1758957884",
+    "desc": "莱阳新闻综合",
+    "id": 4,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "https://img11.iqilu.com/241/2020/06/16/e5944e5e1a026c9f44e8602db7981268.png",
+      "url": "https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 241,
+    "name": "民生综艺",
+    "icon": "https://img11.iqilu.com/241/2020/06/16/e5944e5e1a026c9f44e8602db7981268.png",
+    "stream": "https://alivealone302.litenews.cn/241/e93d2d2f2cd84b7789c6f7f37670180a/playlist.m3u8?k=0e5cc7edd430d95fb8cb398786dc3db3&t=1758957884",
+    "desc": "莱阳民生综艺",
+    "id": 7,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "民生综艺",
+      "image": "https://img11.iqilu.com/241/2020/06/16/e5944e5e1a026c9f44e8602db7981268.png",
+      "url": "https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 241,
+    "name": "综合广播",
+    "icon": "https://img11.iqilu.com/241/2021/06/03/01d8714c2fb564eac2ac13198274ff42.jpg",
+    "stream": "https://alivealone302.litenews.cn/241/d59c605fce994682995a7418803eb5fb/playlist.m3u8?k=2f87dc89061a5b6ea8cc30a7ae6b6770&t=1758957884",
+    "desc": "FM107.4莱阳综合广播",
+    "id": 17,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合广播",
+      "image": "https://img11.iqilu.com/241/2021/06/03/01d8714c2fb564eac2ac13198274ff42.jpg",
+      "url": "https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS0xNw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 245,
+    "name": "莱山综合",
+    "icon": "",
+    "stream": "https://blivealone302.litenews.cn/b245/7629b128b344426e85395bf9fb8aeaa6/index.m3u8?t=1758961486&k=2de4f9c3b450992571a8ad778b489562",
+    "desc": "莱山综合频道",
+    "id": 4,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莱山综合",
+      "image": "",
+      "url": "https://iapp.laishanrongmei.cn/share/dHZsLTI0NS00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 245,
+    "name": "莱山影视",
+    "icon": "",
+    "stream": "https://blivealone302.litenews.cn/b245/bddf865636804b3d943b81a89fdf90de/index.m3u8?t=1758961486&k=0d7266110610b452f2ee461ec1581050",
+    "desc": "莱山影视频道",
+    "id": 6,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莱山影视",
+      "image": "",
+      "url": "https://iapp.laishanrongmei.cn/share/dHZsLTI0NS02.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 251,
+    "name": "齐河综合频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/251/f150ae40de6c47fe9ec259da1baad181/playlist.m3u8?k=5bd1b6269866fa272f9506e6b1b98a01&t=1758957888",
+    "desc": "齐河新闻频道",
+    "id": 8,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "齐河综合频道",
+      "image": "",
+      "url": "https://iapp.qiherongmei.com/share/dHZsLTI1MS04.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 253,
+    "name": "莱西综合频道",
+    "icon": "https://img11.iqilu.com/253/2020/09/22/ba2ef2676fa90b581f6dc4f5e9d31000.png",
+    "stream": "https://alivealone302.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1/playlist.m3u8?k=f622ce640851be1f313705ec261cbf27&t=1758957889",
+    "desc": "莱西综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莱西综合频道",
+      "image": "https://img11.iqilu.com/253/2020/09/22/ba2ef2676fa90b581f6dc4f5e9d31000.png",
+      "url": "https://iapp.laixirongmei.cn/share/dHZsLTI1My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 253,
+    "name": "莱西生活频道",
+    "icon": "https://img11.iqilu.com/253/2020/09/22/ba2ef2676fa90b581f6dc4f5e9d31000.png",
+    "stream": "https://alivealone302.litenews.cn/253/102010c7bdfb471ab50fdb56f6d3fb60/playlist.m3u8?k=d0174c278fbe495c01a1fbea447b4262&t=1758957889",
+    "desc": "莱西生活频道",
+    "id": 3,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "莱西生活频道",
+      "image": "https://img11.iqilu.com/253/2020/09/22/ba2ef2676fa90b581f6dc4f5e9d31000.png",
+      "url": "https://iapp.laixirongmei.cn/share/dHZsLTI1My0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 255,
+    "name": "海阳综合",
+    "icon": "https://img11.iqilu.com/255/2020/09/11/f0f09708823f26f18ed265505a8b8e8d.png",
+    "stream": "https://blivealone302.litenews.cn/b255/c67ee0d48a584f9f8dab1f5ee174591b/index.m3u8?t=1758961490&k=b1db4996ea554a9608705e606ee3fca7",
+    "desc": "海阳综合频道在线直播",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "海阳综合",
+      "image": "https://img11.iqilu.com/255/2020/09/11/f0f09708823f26f18ed265505a8b8e8d.png",
+      "url": "https://iapp.hyzc.cn/share/dHZsLTI1NS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 257,
+    "name": "平阴综合频道",
+    "icon": "https://img11.iqilu.com/257/2020/09/10/6a7387caf50497e50862030c58425164.jpg",
+    "stream": "https://alivealone302.litenews.cn/257/999f830f5be84ce6991ab634bf130021/playlist.m3u8?k=463a5bf6c39ee6590061f592abc03340&t=1758957890",
+    "desc": "平阴广播电视台综合频道节目直播",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "平阴综合频道",
+      "image": "https://img11.iqilu.com/257/2020/09/10/6a7387caf50497e50862030c58425164.jpg",
+      "url": "https://iapp.aipingyin.cn/share/dHZsLTI1Ny0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 257,
+    "name": "平阴乡村振兴",
+    "icon": "https://img11.iqilu.com/257/2020/09/10/d1507e1b5c265e5cab92c0e7f73e0bdf.jpg",
+    "stream": "https://alivealone302.litenews.cn/257/709a2743e0904bd9a3c25a1e7976b089/playlist.m3u8?k=513ad4adaebb85c333de80777ebd4f02&t=1758957890",
+    "desc": "平阴广播电视台乡村振兴节目直播",
+    "id": 3,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "平阴乡村振兴",
+      "image": "https://img11.iqilu.com/257/2020/09/10/d1507e1b5c265e5cab92c0e7f73e0bdf.jpg",
+      "url": "https://iapp.aipingyin.cn/share/dHZsLTI1Ny0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 261,
+    "name": "历城新闻综合",
+    "icon": "https://img11.iqilu.com/261/2020/11/09/ea53f6aaf20cf7b3523b5529e29f7b42.png",
+    "stream": "https://alivealone302.litenews.cn/97/59b826d3afef4500aa58511b9e82736c/playlist.m3u8?k=770c3078e71f9b811c9d70209250f9d9&t=1758957892",
+    "desc": "历城新闻综合直播",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "历城新闻综合",
+      "image": "https://img11.iqilu.com/261/2020/11/09/ea53f6aaf20cf7b3523b5529e29f7b42.png",
+      "url": "https://iapp.ailicheng.cn/share/dHZsLTI2MS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 263,
+    "name": "泰山频道",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/263/c22bd61a847a4723bfd30ddbbd12a2ae/playlist.m3u8?k=cb89b6df337b60a787aa2ef3293e06d1&t=1758957893",
+    "desc": "泰安数字电视8频道 宣传泰山区 服务泰山区",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "泰山频道",
+      "image": "",
+      "url": "https://iapp.tsqrmtzx.cn/share/dHZsLTI2My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 267,
+    "name": "新闻综合频道",
+    "icon": "https://img11.iqilu.com/267/2020/08/24/1eb4d42873fdc9a16a15328cb2c1f5c7.jpg",
+    "stream": "https://alivealone302.litenews.cn/267/d7d6e3a17d33406396e13b610c3fb0ce/playlist.m3u8?k=c8d6c629bf55a518d0617db588ee2b00&t=1758957894",
+    "desc": "新闻综合频道",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "https://img11.iqilu.com/267/2020/08/24/1eb4d42873fdc9a16a15328cb2c1f5c7.jpg",
+      "url": "https://iapp.laolingrongmei.cn/share/dHZsLTI2Ny0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 267,
+    "name": "城市生活频道",
+    "icon": "https://img11.iqilu.com/267/2020/08/24/66fd3ca212a2ab38cce61082653ac3e4.jpg",
+    "stream": "https://alivealone302.litenews.cn/267/e578295190e1495eb70d9ef855176eaa/playlist.m3u8?k=54b9b48c8e6df4172fa12fa96f2a40be&t=1758957894",
+    "desc": "城市生活频道",
+    "id": 5,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "城市生活频道",
+      "image": "https://img11.iqilu.com/267/2020/08/24/66fd3ca212a2ab38cce61082653ac3e4.jpg",
+      "url": "https://iapp.laolingrongmei.cn/share/dHZsLTI2Ny01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 269,
+    "name": "新闻综合",
+    "icon": "",
+    "stream": "https://alivealone302.litenews.cn/269/22b23cbf7fa6474188bba3bd92bb3cab/playlist.m3u8?k=7a84e35e9c8fdd68cb7d9b746ed029f0&t=1758957895",
+    "desc": "新闻综合",
+    "id": 3,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "",
+      "url": "https://iapp.klrmt.cn/share/dHZsLTI2OS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 273,
+    "name": "嘉祥新闻综合频道",
+    "icon": "https://img11.iqilu.com/273/2020/09/15/312889d23498e6ea20e925ebcca8132d.jpg",
+    "stream": "https://alivealone302.litenews.cn/273/4c52b53f0717420d9c73a418a0c96d4e/playlist.m3u8?k=1f644855d5268a5ad3c4e66391aa7593&t=1758957896",
+    "desc": "新闻综合频道",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "嘉祥新闻综合频道",
+      "image": "https://img11.iqilu.com/273/2020/09/15/312889d23498e6ea20e925ebcca8132d.jpg",
+      "url": "https://iapp.jxtvs.cn/share/dHZsLTI3My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 273,
+    "name": "嘉祥生活频道",
+    "icon": "https://img11.iqilu.com/273/2020/09/15/312889d23498e6ea20e925ebcca8132d.jpg",
+    "stream": "https://alivealone302.litenews.cn/273/fed7b37ad3e044319875cb8c6848f117/playlist.m3u8?k=4c3c5c40a03896a9d74f68e2e93ccf70&t=1758957896",
+    "desc": "生活频道",
+    "id": 3,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "嘉祥生活频道",
+      "image": "https://img11.iqilu.com/273/2020/09/15/312889d23498e6ea20e925ebcca8132d.jpg",
+      "url": "https://iapp.jxtvs.cn/share/dHZsLTI3My0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 279,
+    "name": "寿光综合频道",
+    "icon": "https://img11.litenews.cn/279/2024/12/30/96f484ae3d1bbd760b9ba98b3bf24668.jpg",
+    "logo": "https://img11.litenews.cn/279/2024/12/30/96f484ae3d1bbd760b9ba98b3bf24668.jpg",
+    "stream": "https://alivealone302.litenews.cn/279/f62496a91e0f464facd66df3ac7a713a/playlist.m3u8?k=a864efc0799b51539cd38361b5dfdbc3&t=1758957899",
+    "desc": "寿光市融媒体中心综合频道，新闻热线：0536-5118200，5118300.",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "寿光综合频道",
+      "image": "https://img11.litenews.cn/279/2024/12/30/96f484ae3d1bbd760b9ba98b3bf24668.jpg",
+      "url": "https://iapp.sgrmt.com/share/dHZsLTI3OS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 279,
+    "name": "寿光蔬菜频道",
+    "icon": "https://img11.litenews.cn/279/2024/03/22/290ffe2bb88416d72e692fbd65824714.jpeg",
+    "logo": "https://img11.litenews.cn/279/2024/03/22/9175f37ef265f2220bf4b4ac278336e1.png",
+    "stream": "https://alivealone302.litenews.cn/279/40a91b19095945a8a7c97e6fc38b5b4f/playlist.m3u8?k=9fbf31b4913748718fd99ba92fb2c52d&t=1758957899",
+    "desc": "寿光市融媒体中心蔬菜频道，新闻热线：0536-5118388。",
+    "id": 3,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "寿光蔬菜频道",
+      "image": "https://img11.litenews.cn/279/2024/03/22/290ffe2bb88416d72e692fbd65824714.jpeg",
+      "url": "https://iapp.sgrmt.com/share/dHZsLTI3OS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 281,
+    "name": "综合频道",
+    "icon": "https://img11.litenews.cn/281/2023/07/26/a85175f364fcc6bb79e3ed12e9ea9a7b.jpg",
+    "stream": "https://alivealone302.litenews.cn/281/e03b233ea16a459cb2c8fc77e522ddb0/playlist.m3u8?k=5cfc6f106b35e8f47816c8838dc5ecea&t=1758957900",
+    "desc": "综合频道",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "https://img11.litenews.cn/281/2023/07/26/a85175f364fcc6bb79e3ed12e9ea9a7b.jpg",
+      "url": "https://iapp.mprmt.com/share/dHZsLTI4MS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 285,
+    "name": "坊子新闻综合",
+    "icon": "https://img11.iqilu.com/285/2020/10/21/d2e9df1db61354b0a31ce77584188a16.jpg",
+    "stream": "https://alivealone302.litenews.cn/285/202304_1651887528174882816/playlist.m3u8?k=d29ab9c7018e2c2110624f0e3b177f94&t=1758957901",
+    "desc": "坊子新闻综合",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "坊子新闻综合",
+      "image": "https://img11.iqilu.com/285/2020/10/21/d2e9df1db61354b0a31ce77584188a16.jpg",
+      "url": "https://iapp.fzqrmtzx.cn/share/dHZsLTI4NS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 289,
+    "name": "岚山电视频道",
+    "icon": "https://img11.iqilu.com/289/2020/11/13/3e6a590716f29be8f8f43d448a5d7cd8.jpg",
+    "stream": "https://alivealone302.litenews.cn/289/547a6d25776f4f76b27d64f945075683/playlist.m3u8?k=46f8a515b3cedf3113e484df5412400a&t=1758957903",
+    "desc": "岚山电视频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "岚山电视频道",
+      "image": "https://img11.iqilu.com/289/2020/11/13/3e6a590716f29be8f8f43d448a5d7cd8.jpg",
+      "url": "https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 293,
+    "name": "岱岳TV",
+    "icon": "https://img11.iqilu.com/293/2020/11/05/96ad3aaf69d8b02f1ff4f3ae6b0b1035.png",
+    "stream": "https://alivealone302.litenews.cn/293/03338daee33e47f4810595f18507c52a/playlist.m3u8?k=ff35b7812670f89db2571cf9d4d2f4fa&t=1758957904",
+    "desc": "岱岳TV",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "岱岳TV",
+      "image": "https://img11.iqilu.com/293/2020/11/05/96ad3aaf69d8b02f1ff4f3ae6b0b1035.png",
+      "url": "https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 299,
+    "name": "五莲综合频道",
+    "icon": "https://img11.iqilu.com/299/2022/10/21/80b3944f40cada547249b8b7be835f3e.png",
+    "stream": "https://alivealone302.litenews.cn/299/4ca3fa99444649faaea2a3c4f54510e0/playlist.m3u8?k=b623d3a3e6edcfed64e8e2ea086feda0&t=1758957907",
+    "desc": "五莲综合频道",
+    "id": 10,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "五莲综合频道",
+      "image": "https://img11.iqilu.com/299/2022/10/21/80b3944f40cada547249b8b7be835f3e.png",
+      "url": "https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 299,
+    "name": "文化旅游频道",
+    "icon": "https://img11.iqilu.com/299/2020/12/09/1a2f0d14de381981d77c149b649167e3.jpg",
+    "stream": "https://alivealone302.litenews.cn/299/88621c064ade45db9478010b15eed2ad/playlist.m3u8?k=69ada43958f4e1320fe4b18d41014ad1&t=1758957907",
+    "desc": "文化旅游频道",
+    "id": 12,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "文化旅游频道",
+      "image": "https://img11.iqilu.com/299/2020/12/09/1a2f0d14de381981d77c149b649167e3.jpg",
+      "url": "https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 303,
+    "name": "济铁频道",
+    "icon": "https://img11.iqilu.com/303/2020/12/11/86ce406556d6525424675b60522d6a59.jpg",
+    "stream": "https://alivealone302.litenews.cn/303/8876f9ea0ce6400d9b1e54a129ff1c0c/playlist.m3u8?k=3543d90d803fcbe469e53e9e61af938d&t=1758957908",
+    "desc": "济铁频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "济铁频道",
+      "image": "https://img11.iqilu.com/303/2020/12/11/86ce406556d6525424675b60522d6a59.jpg",
+      "url": "https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 305,
+    "name": "综合频道",
+    "icon": "https://img11.iqilu.com/305/2021/05/07/5a4752e61c5c2c074490119ceb0dc641.png",
+    "stream": "https://alivealone302.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724/playlist.m3u8?k=27473d4dc1c14523e05d071d2fb83627&t=1758957909",
+    "desc": "胶州广播电视台综合频道作为胶州市新闻宣传主阵地，始终坚持党的领导，坚持围绕中心、服务大局，以新闻、专题等公共服务类栏目为主干，传递政声民意，引导社会舆论，推动工作落实，为经济社会高质量发展提供坚强舆论支持和精神动力。",
+    "id": 1,
+    "logo": "https://img11.iqilu.com/305/2021/05/07/5a4752e61c5c2c074490119ceb0dc641.png",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "https://img11.iqilu.com/305/2021/05/07/5a4752e61c5c2c074490119ceb0dc641.png",
+      "url": "https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 305,
+    "name": "生活频道",
+    "icon": "https://img11.iqilu.com/305/2021/05/07/b2777021f2fa88dc90500d50b23b6b2d.png",
+    "stream": "https://alivealone302.litenews.cn/305/c663c037b5c345cdbe92a1e77e4c8710/playlist.m3u8?k=1f1adfed9a698c7fc7283810028cadd5&t=1758957909",
+    "desc": "胶州广播电视台生活频道作为生活服务主阵地，坚持以人民为中心的工作理念，以生活服务类栏目为主干，关注民生热点，服务大众生活，锚定增强文化自觉、坚定文化自信目标任务，努力提供丰富多彩、质量优秀的影视文化作品，更好满足人民群众日益增长的精神文化需求。",
+    "id": 3,
+    "logo": "https://img11.iqilu.com/305/2021/05/07/b2777021f2fa88dc90500d50b23b6b2d.png",
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "https://img11.iqilu.com/305/2021/05/07/b2777021f2fa88dc90500d50b23b6b2d.png",
+      "url": "https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 353,
+    "name": "济铁频道",
+    "icon": "https://img11.iqilu.com/353/2022/03/16/c64c54f1bf565eabe2563b8c79ecd2b6.jpg",
+    "stream": "https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8?t=1758961527&k=634a26c0785cd07fbfaaa4fceafe7f4d",
+    "desc": "",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "济铁频道",
+      "image": "https://img11.iqilu.com/353/2022/03/16/c64c54f1bf565eabe2563b8c79ecd2b6.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTM1My0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 403,
+    "name": "电视频道",
+    "icon": "https://img11.litenews.cn/403/2024/02/23/913f6afe516982c9ca22ccec62ef246e.jpg",
+    "logo": "https://img11.litenews.cn/403/2024/02/23/c6c99c1cd11bd1aa8dbdc634ea192f69.jpg",
+    "stream": "https://alivealone302.litenews.cn/403/f8915ca36bb94058ba325969d63fd660/playlist.m3u8?k=e1824be6b2cc2f11e1d6db9403ac7079&t=1758957947",
+    "desc": "电视频道",
+    "id": 5,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "电视频道",
+      "image": "https://img11.litenews.cn/403/2024/02/23/913f6afe516982c9ca22ccec62ef246e.jpg",
+      "url": "https://iapp.hichengyang.cn/share/dHZsLTQwMy01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 403,
+    "name": "爱车940视频直播",
+    "icon": "https://img11.litenews.cn/403/2023/08/24/fef9540d930f2c49dea73bf204733de0.png",
+    "logo": "https://img11.litenews.cn/403/2023/08/24/fef9540d930f2c49dea73bf204733de0.png",
+    "stream": "https://alivealone302.litenews.cn/403/ba21db25c2df4d42acadfaca7ee09136/playlist.m3u8?k=caf4a55ed19d63eb6514934f1353eb19&t=1758957947",
+    "desc": "爱车940视频直播",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "爱车940视频直播",
+      "image": "https://img11.litenews.cn/403/2023/08/24/fef9540d930f2c49dea73bf204733de0.png",
+      "url": "https://iapp.hichengyang.cn/share/dHZsLTQwMy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 421,
+    "name": "潍坊高新区",
+    "icon": "https://img11.iqilu.com/421/2022/09/26/43ddf0d03c3d51602cc981f214ef0ddf.jpeg",
+    "stream": "https://alivealone302.litenews.cn/421/73c76d35421345028653ea23a53db553/playlist.m3u8?k=b01ebb0c1d7874c1bb939ddab6148ae3&t=1758957953",
+    "desc": "“潍坊高新频道”是潍坊国家高新技术产业开发区官方电视频道。",
+    "id": 14,
+    "state": 1,
+    "logo": "https://img11.iqilu.com/421/2022/09/26/43ddf0d03c3d51602cc981f214ef0ddf.jpeg",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "潍坊高新区",
+      "image": "https://img11.iqilu.com/421/2022/09/26/43ddf0d03c3d51602cc981f214ef0ddf.jpeg",
+      "url": "https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 519,
+    "name": "新闻综合频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/0d4aa29109194c9d8da23cc044614538/playlist.m3u8?k=fb4a31552eca6f106c1c926a093a9e0e&t=1758957991",
+    "desc": "新闻综合频道",
+    "id": 18,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0xOA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 519,
+    "name": "经济生活频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=b81da4931ae5e7fb9aa2a6f90a6e66c3&t=1758957991",
+    "desc": "经济生活频道",
+    "id": 20,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经济生活频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0yMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 519,
+    "name": "图文频道",
+    "icon": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "logo": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=b81da4931ae5e7fb9aa2a6f90a6e66c3&t=1758957991",
+    "desc": "图文频道",
+    "id": 22,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "图文频道",
+      "image": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0yMg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 623,
+    "name": "枣庄高新区",
+    "icon": "",
+    "logo": "",
+    "stream": "https://",
+    "desc": "枣庄高新区",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "枣庄高新区",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTYyMy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 635,
+    "name": "新闻综合",
+    "icon": "https://img11.litenews.cn/635/2023/06/16/10eb8ca7a9579564d19e8da968f5301e.png",
+    "logo": "https://img11.litenews.cn/635/2023/06/16/10eb8ca7a9579564d19e8da968f5301e.png",
+    "stream": "https://alivealone302.litenews.cn/635/695bc19784f6441e83c9eaee148e1f75/playlist.m3u8?k=c1391f0b342cd752deaad4a825de568c&t=1758958036",
+    "desc": "新闻综合",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "https://img11.litenews.cn/635/2023/06/16/10eb8ca7a9579564d19e8da968f5301e.png",
+      "url": "https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 635,
+    "name": "经济生活",
+    "icon": "https://img11.litenews.cn/635/2023/06/16/70b2c2cbfc6335a1f290d26993645f05.png",
+    "logo": "https://img11.litenews.cn/635/2023/06/16/70b2c2cbfc6335a1f290d26993645f05.png",
+    "stream": "https://alivealone302.litenews.cn/635/1f97fc0633d747ed9689741218e0a057/playlist.m3u8?k=c4078c143e0f5335b54d1d71e52debeb&t=1758958036",
+    "desc": "WFTV-2 经济生活频道",
+    "id": 5,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经济生活",
+      "image": "https://img11.litenews.cn/635/2023/06/16/70b2c2cbfc6335a1f290d26993645f05.png",
+      "url": "https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 635,
+    "name": "影视综艺",
+    "icon": "https://img11.litenews.cn/635/2023/06/16/7dc04489203121086323a1002652354f.png",
+    "logo": "https://img11.litenews.cn/635/2023/06/16/7dc04489203121086323a1002652354f.png",
+    "stream": "https://alivealone302.litenews.cn/635/1ebcf529cada4d448a48f73b216cd1ac/playlist.m3u8?k=9a0e9d5b60c50a1de7cff6d859184061&t=1758958036",
+    "desc": "WFTV-3 影视综艺频道",
+    "id": 7,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "影视综艺",
+      "image": "https://img11.litenews.cn/635/2023/06/16/7dc04489203121086323a1002652354f.png",
+      "url": "https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 635,
+    "name": "科教文旅",
+    "icon": "https://img11.litenews.cn/635/2023/06/16/52d093b6da5aa768021280c51decff50.png",
+    "logo": "https://img11.litenews.cn/635/2023/06/16/52d093b6da5aa768021280c51decff50.png",
+    "stream": "https://alivealone302.litenews.cn/635/09ddcc111dda41d2b3abed4a8f2efdb0/playlist.m3u8?k=344b954d063caed400f47d0a939accb8&t=1758958036",
+    "desc": "WFTV-4 科教文旅频道",
+    "id": 9,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "科教文旅",
+      "image": "https://img11.litenews.cn/635/2023/06/16/52d093b6da5aa768021280c51decff50.png",
+      "url": "https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 657,
+    "name": "新闻综合频道",
+    "icon": "",
+    "logo": "",
+    "stream": "https://live.dongyingnews.cn/537/202304_1651887564182982656/playlist.m3u8?k=a647cacb72457bad290bc89f15f2302a&t=1758958044",
+    "desc": "新闻综合频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTY1Ny0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 657,
+    "name": "民生频道",
+    "icon": "",
+    "logo": "",
+    "stream": "https://",
+    "desc": "民生频道",
+    "id": 3,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "民生频道",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTY1Ny0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 672,
+    "name": "生活频道",
+    "icon": "https://img11.iqilu.com/227/2020/04/13/d5dd6313cd6afcb154c3626b2069a7f6.png",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30/playlist.m3u8?k=f7c0523cb7b7e88ca7083f9248dcb32f&t=1758958050",
+    "desc": "生活频道",
+    "id": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "生活频道",
+      "image": "https://img11.iqilu.com/227/2020/04/13/d5dd6313cd6afcb154c3626b2069a7f6.png",
+      "url": "https://app.litenews.cn/share/dHZsLTY3Mi0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 672,
+    "name": "综合频道",
+    "icon": "",
+    "logo": "",
+    "stream": "https://alivealone302.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724/playlist.m3u8?k=71055a109e333bf7990866286f7df731&t=1758958050",
+    "desc": "综合频道",
+    "id": 3,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "综合频道",
+      "image": "",
+      "url": "https://app.litenews.cn/share/dHZsLTY3Mi0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "name": "甘肃卫视",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/061a85e9e8d4fbb2ff8793ced676bb75.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/12afd383cb453d62b309c291535c99a2.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/32c4fc9cbd4d43ee9d84d8a6348571aa/playlist.m3u8?k=650f8ab02326ef00f882be0d5b9fa9b7&t=1758958055",
+    "desc": "甘肃卫视",
+    "id": 4,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "甘肃卫视",
+      "image": "https://img11.litenews.cn/683/2024/10/24/061a85e9e8d4fbb2ff8793ced676bb75.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "name": "经济频道",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/d7273a1615bfe26cdded56f695036df3.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/9e964984e894dc1a95031072267de5df.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/36a4de190ba54d32a6130e8d11cb3b35/playlist.m3u8?k=eb9bf9337e1f32c26afb5056170bfd2a&t=1758958055",
+    "desc": "经济频道",
+    "id": 7,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经济频道",
+      "image": "https://img11.litenews.cn/683/2024/10/24/d7273a1615bfe26cdded56f695036df3.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "name": "文化影视",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/be91e00e4364b72a757bf28a9afb99d4.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/d83c527bfb5b510c82c18b620a52417c.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/cc5423b42ef94e3988cd1403a19b3d9f/playlist.m3u8?k=5dcb5976966d226b2b3840356ceb2a32&t=1758958055",
+    "desc": "文化影视",
+    "id": 10,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "文化影视",
+      "image": "https://img11.litenews.cn/683/2024/10/24/be91e00e4364b72a757bf28a9afb99d4.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "name": "公共应急",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/53ad735371457def0c750408bd8a198a.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/53ad735371457def0c750408bd8a198a.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/4db7b8c1d69549e09bc76291e4168d4f/playlist.m3u8?k=81fd353852ff7cf38d9ced5aa905f978&t=1758958055",
+    "desc": "公共应急",
+    "id": 13,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "公共应急",
+      "image": "https://img11.litenews.cn/683/2024/10/24/53ad735371457def0c750408bd8a198a.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xMw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "name": "都市频道",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/5540ba9d8a3759a70e8fbea90ff82279.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/f44b0b485b753e2fe5ebca99e7603d5c.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/602a64d16212405db411b42b529445ed/playlist.m3u8?k=4d841bb27a9c7924d7da5816e7fe58c1&t=1758958055",
+    "desc": "都市频道",
+    "id": 16,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "都市频道",
+      "image": "https://img11.litenews.cn/683/2024/10/24/5540ba9d8a3759a70e8fbea90ff82279.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xNg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "name": "少儿频道",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/a2eba81cd9b3d7cbdee28f41a12c5d7a.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/a3390bc5dde142bbd0165c8ebe78e6cf.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/2f91e105d26c481f832b2224ddf1ace1/playlist.m3u8?k=170ae7ef7e256a3f0a56021290655e7b&t=1758958055",
+    "desc": "少儿频道",
+    "id": 21,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "少儿频道",
+      "image": "https://img11.litenews.cn/683/2024/10/24/a2eba81cd9b3d7cbdee28f41a12c5d7a.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0yMQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "name": "移动电视",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/4e73ac6d3b288d21b3d04b81db0a6c03.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/b8d9bdd08b6bd60d47b2e7db12e7a647.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/78ee69ac3125446f9434cd96aa701874/playlist.m3u8?k=2c4ee8565257dd91226a4f16c1bc682b&t=1758958055",
+    "desc": "移动电视",
+    "id": 18,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "移动电视",
+      "image": "https://img11.litenews.cn/683/2024/10/24/4e73ac6d3b288d21b3d04b81db0a6c03.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xOA.html",
+      "desc": "点击观看精彩节目"
+    }
+  }
+]
