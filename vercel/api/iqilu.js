@@ -1,4 +1,13 @@
 export default async function handler(req, res) {
+  const API_TOKEN = process.env.API_TOKEN;
+
+  if (API_TOKEN) {
+    const ua = req.headers['user-agent'] || '';
+    if (!ua.includes(API_TOKEN)) {
+      return res.status(403).send('Forbidden');
+    }
+  }
+
   const orgid = req.query.orgid;
   const num = parseInt(req.query.num, 10);
 
