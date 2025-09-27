@@ -24,6 +24,11 @@ jobs:
           node 2.js
           node 3.js
 
+      - name: Set Git author
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Make changes
         run: |
           git add .
