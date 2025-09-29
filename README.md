@@ -8,8 +8,19 @@
 
 ## 部署方法
 
-点击下面的按钮，按照提示登录 Vercel 并创建项目即可：
+1. 克隆本仓库
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/plsy1/iqilu)
+2. 在克隆的仓库里开启 action
 
-部署完后修改 config.json 文件中 baseUrl 的值，action 会自动运行，生成新的 m3u。
+3. 修改 config.json 文件中 baseUrl 的值，action 会自动运行，生成新的 m3u
+
+4. 点击下面任意按钮，创建 Project，选择刚刚克隆的仓库进行部署
+
+5. 复制 m3u 文件，导入播放器播放
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com)
+
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com)
+
+
+
