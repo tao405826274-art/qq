@@ -1,8 +1,8 @@
-name: fetch raw and generate m3u
+name: update m3u file
 
 on:
-  # push:
-  #   branches: [main]
+  push:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -22,14 +22,12 @@ jobs:
 
       - name: Run scripts
         run: |
-          node 1.js
-          node 2.js
           node 3.js
 
       - name: Set Git author
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Make changes
         run: |

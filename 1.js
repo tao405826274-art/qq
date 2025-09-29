@@ -52,7 +52,7 @@ async function fetchBatch(start, end) {
     }
     await new Promise((r) => setTimeout(r, 100));
   }
-  const outputFile = path.join(__dirname, `streams_${start}-${end}.json`);
+  const outputFile = path.join(__dirname, 'data', `streams_${start}-${end}.json`);
   fs.writeFileSync(outputFile, JSON.stringify(results, null, 2), "utf-8");
   console.log(`Batch ${start}-${end} done! ${results.length} total streams saved to ${outputFile}`);
 }
