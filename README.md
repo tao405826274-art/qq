@@ -10,9 +10,9 @@
 
 1. 克隆本仓库
 
-2. 在克隆的仓库里开启 action
+2. 在克隆的仓库里开启 Actions
 
-3. 修改 config.json 文件中 baseUrl 的值，action 会自动运行，生成新的 m3u
+3. 修改 config.json 文件中 baseUrl 的值，Actions 会自动运行，生成新的 m3u
 
 4. 点击下面任意按钮，创建 Project，选择刚刚克隆的仓库进行部署
 
