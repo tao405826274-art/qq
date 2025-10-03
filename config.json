@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://aaaaaaaaa.vercel.app/",
+  "baseUrl": "https://domain.vercel.app/",
   "blacklistNames": ["CCTV", "中央一套", "金山防盗链", "测试"],
   "blacklistOrgIds": [21, 29]
 }
